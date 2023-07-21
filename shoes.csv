@@ -1,0 +1,909 @@
+Shoe name,isNew,Gender,category,isBestSeller,isMemberExclusive,isSustainable,inStock,numColors,Color 1,Color 2,Color 3,Color 4,Price,Expensive
+Dunk Low,True,Women,Shoes,False,False,False,True,2,White,Rose Whisper,NaN,NaN,110,False
+Air VaporMax 2023 Flyknit,False,Women,Shoes,False,False,False,True,4,Oatmeal,Pink Oxford,Sail,Pearl Pink,210,True
+Air VaporMax 2023 Flyknit,False,Women,Shoes,False,False,False,True,3,Black,Black,Anthracite,NaN,210,True
+Air VaporMax 2023 Flyknit,False,Women,Shoes,False,False,False,True,3,Black,Anthracite,Sail,NaN,210,True
+Air VaporMax 2023 Flyknit,False,Women,Shoes,False,False,False,True,4,Pale Vanilla,Sail,Sesame,Sea Coral,210,True
+Air VaporMax 2023 Flyknit,False,Women,Shoes,False,False,False,True,4,White,Metallic Silver,Metallic Silver,Pure Platinum,210,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,Phantom,Pink Oxford,White,Red Stardust,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,White,Siren Red,Photon Dust,Sundial,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,White,Blue Tint,Pink Spell,Racer Blue,140,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,Sail,Sea Coral,Indigo Haze,Coral Chalk,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,Sail,Citron Tint,Pearl White,Light Silver,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,White,Team Gold,Pure Platinum,Black,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,Summit White,Wolf Grey,Pure Platinum,Sesame,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,3,White,White,White,NaN,130,True
+Air Force 1 Shadow,False,Women,Shoes,False,False,False,True,4,Shimmer,Sanddrift,Pearl White,Mars Stone,130,True
+Gamma Force,False,Women,Shoes,True,False,False,True,4,White,Light Bone,Sanddrift,Phantom,90,False
+Gamma Force,False,Women,Shoes,True,False,False,True,4,White,Summit White,Iron Grey,Black,90,False
+Gamma Force,False,Women,Shoes,True,False,False,True,4,Sail,Wheat Gold,Team Red,Fir,90,False
+Gamma Force,False,Women,Shoes,False,False,False,True,3,White,Rush Fuchsia,Emerald Rise,NaN,90,False
+Gamma Force,False,Women,Shoes,True,False,False,True,4,Sail,Light Orewood Brown,Amber Brown,Bronzine,90,False
+Gamma Force,False,Women,Shoes,True,False,False,True,4,White,Deep Royal Blue,Summit White,Game Royal,90,False
+Tech Hera,False,Women,Shoes,False,False,False,True,4,Pale Ivory,White,Coconut Milk,Sail,110,False
+Tech Hera,False,Women,Shoes,False,False,False,True,3,Pearl Pink,Pearl Pink,Pink Foam,NaN,110,False
+Tech Hera,False,Women,Shoes,False,True,False,True,4,Sail,Cargo Khaki,Neutral Olive,Coconut Milk,110,False
+Tech Hera,False,Women,Shoes,False,False,False,True,4,Light Silver,Sail,Flat Pewter,Mica Green,110,False
+Tech Hera,False,Women,Shoes,False,False,False,True,3,Phantom,Phantom,Light Orewood Brown,NaN,110,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,4,Amber Brown,Guava Ice,Monarch,Campfire Orange,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,3,Black,Anthracite,White,NaN,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,4,Pink Oxford,Diffused Taupe,Gum Light Brown,White,120,False
+Free Metcon 5,False,Women,Training Shoes,False,False,False,True,4,Sea Glass,Burgundy Crush,White,Sea Glass,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,4,Sail,Sanddrift,Coconut Milk,Sail,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,4,Photon Dust,Picante Red,Black,Photon Dust,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,4,Citron Tint,Volt,Summit White,Cool Grey,120,False
+Free Metcon 5,False,Women,Training Shoes,True,False,False,True,3,White,Black,Emerald Rise,NaN,120,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,4,White,Photon Dust,Picante Red,Black,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,3,Violet Dust,Rush Fuchsia,Sail,NaN,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,3,White,Pure Platinum,Metallic Silver,NaN,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,4,Black,Hyper Pink,White,Pinksicle,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,4,Barely Rose,Pink Oxford,Gum Light Brown,White,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,3,Black,Iron Grey,White,NaN,80,False
+In-Season TR 13,False,Women,Training Shoes,False,False,False,True,4,White,Black,Jade Ice,Emerald Rise,80,False
+Air Force 1 LX United,True,Women,Shoes,False,False,False,True,4,Hemp,Black,Summit White,Hemp,130,True
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,Sail,Coconut Milk,White Onyx,Dark Marina Blue,140,True
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,3,Summit White,Metallic Silver,Bronzine,NaN,115,False
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,White,Coconut Milk,Team Orange,Archaeo Brown,120,False
+Air Force 1 LX United,True,Women,Shoes,False,False,False,True,4,White,Black,Summit White,Hemp,120,False
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,Summit White,Muslin,Gum Light Brown,Black,130,True
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,Team Red,Gym Red,Team Red,Sail,150,True
+Air Force 1 LX United,False,Women,Shoes,False,True,False,True,4,White,White,Safety Orange,Washed Teal,120,False
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,Sail,Metallic Silver,Tawny,Sail,120,False
+Air Force 1 LX United,False,Women,Shoes,False,True,False,True,4,White,Team Red,Metallic Gold Star,White,120,False
+Air Force 1 LX United,False,Women,Shoes,False,False,False,True,4,Yellow Ochre,White,Team Orange,Sail,120,False
+Air Max Plus United,True,Women,Shoes,False,False,False,True,4,Hemp,White,Summit White,Black,180,True
+Air Max Plus United,False,Women,Shoes,False,False,False,True,4,Vachetta Tan,Sanddrift,Gum Medium Brown,White,185,True
+Air Max Plus United,False,Women,Shoes,False,False,False,True,3,Black,White,Black,NaN,175,True
+Air Max Plus United,False,Women,Shoes,False,False,False,True,3,White,Pure Platinum,White,NaN,175,True
+Air Max Plus United,False,Women,Shoes,False,False,False,True,4,Medium Soft Pink,Black,Summit White,University Red,175,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,4,Phantom,Jade Ice,Sail,White,140,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,3,Black,Anthracite,Black,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,False,False,False,True,3,Black,Iron Grey,White,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,4,Pearl Pink,Pink Foam,Hemp,White,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,False,True,False,True,4,Black,Green Abyss,Baltic Blue,Hyper Pink,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,False,False,False,True,4,Guava Ice,Amber Brown,Photon Dust,Vivid Purple,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,2,Black,White,NaN,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,4,Guava Ice,Amber Brown,Photon Dust,Vivid Purple,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,3,White,Pure Platinum,Metallic Silver,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,3,White,Coconut Milk,Black,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,False,False,False,True,4,White,Photon Dust,University Red,Multi-Color,140,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,3,Black,Iron Grey,White,NaN,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,4,Volt,Barely Volt,Bright Crimson,Volt,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,True,False,False,True,4,White,Blue Tint,Laser Orange,Picante Red,130,True
+Pegasus 40 Premium,False,Road Running Shoes,Road Running Shoes,False,False,False,True,4,Pearl Pink,Coral Chalk,White,Midnight Navy,140,True
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,3,White,Black,Emerald Rise,NaN,100,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,4,White,Photon Dust,Rush Fuchsia,Fuchsia Dream,100,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,3,Pink Foam,Pearl Pink,White,NaN,100,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,4,Pearl Pink,Coral Chalk,White,Midnight Navy,110,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,3,White,Pure Platinum,Metallic Silver,NaN,100,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,3,Black,Black,White,NaN,100,False
+Air Winflo 10,False,Women,Road Running Shoes,False,False,False,True,4,White,Citron Pulse,Vivid Orange,Black,100,False
+Court Legacy Lift,False,Women,Shoes,True,False,False,True,4,White,Hemp,Team Orange,Black,90,False
+Court Legacy Lift,False,Women,Shoes,True,False,False,True,4,White,Summit White,Coral Chalk,Sea Coral,90,False
+Court Legacy Lift,False,Women,Shoes,False,False,False,True,4,White,Coconut Milk,Stadium Green,Summit White,90,False
+Court Legacy Lift,False,Women,Shoes,True,False,False,True,4,Black,White,Team Orange,Sail,90,False
+Court Legacy Lift,False,Women,Shoes,False,False,False,True,4,White,Pearl Pink,Opti Yellow,Action Green,90,False
+Court Legacy Lift,True,Women,Shoes,False,True,False,True,4,White,Black,Summit White,Hemp,95,False
+Court Legacy Lift,False,Women,Shoes,True,False,False,True,4,Light Soft Pink,Pink Oxford,Desert Berry,Sail,90,False
+Court Legacy Lift,False,Women,Shoes,True,False,False,True,3,White,White,White,NaN,90,False
+Court Legacy Next Nature,False,Women,Shoes,True,False,False,True,4,White,Desert Ochre,Team Orange,Black,70,False
+Court Legacy Next Nature,False,Women,Shoes,True,False,False,True,4,Summit White,Sail,Pearl Pink,Rosewood,70,False
+Court Legacy Next Nature,False,Women,Shoes,True,False,False,True,4,White,Black,Volt,White,70,False
+Court Legacy Next Nature,False,Women,Shoes,False,False,False,True,4,White,Rush Fuchsia,Emerald Rise,White,70,False
+Court Legacy Next Nature,False,Women,Shoes,False,False,False,True,4,White,Hot Punch,Bright Cactus,Phantom,75,False
+Air Max 90,False,Women,Shoes,False,False,False,True,3,White,White,Black,NaN,130,True
+Air Max 90,False,Women,Shoes,False,True,False,True,3,White,Photon Dust,Metallic Silver,NaN,140,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,Summit White,Light Bone,Pure Platinum,Black,130,True
+Air Max 90,False,Women,Shoes,False,True,False,False,4,Sail,Cashmere,Team Gold,Sail,140,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,White,Alabaster,Sail,Citron Pulse,130,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,Pale Ivory,Summit White,Oatmeal,Picante Red,140,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,White,Photon Dust,Cobalt Bliss,Wolf Grey,130,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,Summit White,Light Bone,Vivid Sulfur,University Blue,130,True
+Air Max 90,False,Women,Shoes,False,False,False,True,3,White,White,White,NaN,130,True
+Air Max 90,False,Women,Shoes,False,False,False,True,3,Black,Black,White,NaN,130,True
+Air Max 90,False,Women,Shoes,False,False,False,True,4,Barely Rose,Pink Oxford,Black,Summit White,130,True
+Air Max 90,True,Women,Shoes,False,False,False,True,4,White,Summit White,Black,Hemp,140,True
+Air Force 1 '07,False,Women,Shoes,True,False,False,True,4,White,White,White,White,110,False
+Air Force 1 '07,False,Women,Shoes,True,False,False,True,4,White,Game Royal,Sanddrift,Stadium Green,110,False
+Air Force 1 '07,False,Women,Shoes,True,False,False,True,2,White,Action Green,NaN,NaN,110,False
+Air Force 1 '07,False,Women,Shoes,True,False,False,True,4,Black,Black,Black,Black,110,False
+Air Force 1 '07,False,Women,Shoes,False,False,False,True,4,Mantra Orange,Cinnabar,White,Mantra Orange,110,False
+Air VaporMax Plus,False,Women,Shoes,False,False,False,True,4,Hyper Pink,White,Pink Blast,Hyper Pink,210,True
+Air VaporMax Plus,False,Women,Shoes,False,False,False,True,4,Pink Spell,Spring Green,Racer Blue,Citron Pulse,210,True
+Air VaporMax Plus,False,Women,Shoes,False,False,False,True,3,Mantra Orange,Orange,Cinnabar,NaN,210,True
+Air VaporMax Plus,False,Women,Shoes,False,False,False,True,4,Fuchsia Dream,Vivid Orange,Baltic Blue,Bright Crimson,210,True
+Air VaporMax Plus,False,Women,Shoes,False,False,False,True,3,Black,Anthracite,Black,NaN,210,True
+Offcourt,False,Women,Slides,False,False,False,True,4,Pink Blast,Dark Grey,Pink Blast,Black,40,False
+Offcourt,False,Women,Slides,False,False,False,True,3,Black,Cool Grey,White,NaN,45,False
+Offcourt,False,Women,Slides,False,False,False,True,3,Black,Summit White,Black,NaN,40,False
+Offcourt,False,Women,Slides,False,False,False,True,3,Anthracite,Black,Black,NaN,40,False
+Blazer Low '77 Jumbo,False,Women,Shoes,False,False,False,True,4,Summit White,Sea Glass,Mineral,Geode Teal,100,False
+Blazer Low '77 Jumbo,False,Women,Shoes,False,False,False,True,4,White,White,Sail,Black,100,False
+Blazer Low '77 Jumbo,False,Women,Shoes,False,False,False,True,4,White,Rose Whisper,White,Pink Oxford,100,False
+Air Huarache,False,Women,Shoes,False,False,False,True,4,White,Mica Green,Photon Dust,Obsidian,125,True
+Air Huarache,False,Women,Shoes,False,False,False,True,4,White,Hyper Pink,Vivid Purple,Black,125,True
+Air Huarache,False,Women,Shoes,False,False,False,True,2,White,Pure Platinum,NaN,NaN,125,True
+Air Huarache,False,Women,Shoes,False,False,False,True,3,Black,Anthracite,Black,NaN,125,True
+Air Huarache,False,Women,Shoes,False,False,False,True,4,White,Topaz Gold,Game Royal,Stadium Green,125,True
+Air Huarache,False,Women,Shoes,False,False,False,False,4,Summit White,Solar Flare,Medium Soft Pink,Hyper Pink,125,True
+Free RN NN,False,Women,Road Running Shoes,False,False,False,True,4,Pink Foam,Pink Oxford,Platinum Tint,White,100,False
+Free RN NN,False,Women,Road Running Shoes,False,False,False,True,4,Black,Clear Jade,Picante Red,White,100,False
+Free RN NN,False,Women,Road Running Shoes,False,False,False,True,4,Guava Ice,Vivid Sulfur,White,Earth,100,False
+Free RN NN,False,Women,Road Running Shoes,False,False,False,True,3,Black,Anthracite,White,NaN,100,False
+Invincible 3,False,Women,Road Running Shoes,True,False,False,True,4,White,Vivid Sulfur,Pure Platinum,Vivid Purple,180,True
+Invincible 3,False,Women,Road Running Shoes,True,False,False,True,4,White,Racer Blue,Laser Orange,Hot Punch,180,True
+Invincible 3,True,Women,Road Running Shoes,True,False,False,True,4,Jade Ice,Clear Jade,Malachite,White,180,True
+Invincible 3,False,Women,Road Running Shoes,True,False,False,True,4,Black,Dark Grey,White,White,180,True
+Invincible 3,False,Women,Road Running Shoes,True,False,False,True,4,Sail,Sail,Blue Whisper,Medium Soft Pink,185,True
+Invincible 3,False,Women,Road Running Shoes,True,False,False,True,4,Pink Foam,Pearl Pink,Pink Glow,White,180,True
+Air Max 270,False,Women,Shoes,True,False,False,True,4,White,Pearl Pink,Football Grey,Medium Soft Pink,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,4,Pure Platinum,Volt,White,Black,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,4,Sail,Phantom,Indigo Haze,Oxygen Purple,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,4,White,Black,Metallic Silver,Dusty Cactus,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,4,Light Soft Pink,Pink Oxford,Desert Berry,Black,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,3,Sea Glass,White,Oil Green,NaN,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,4,Lilac,University Blue,Barely Grape,Black,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,4,Topaz Gold,Laser Orange,Cobalt Bliss,White,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,3,Black,Black,Black,NaN,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,3,White,Fuchsia Dream,Black,NaN,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,3,Black,White,Anthracite,NaN,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,4,White,Fuchsia Dream,Active Fuchsia,Bright Crimson,160,True
+Air Max 270,False,Women,Shoes,True,False,False,True,3,White,White,Black,NaN,160,True
+Air Max 270,False,Women,Shoes,False,False,False,True,3,Hyper Pink,White,Hyper Pink,NaN,160,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,3,White,Pink Foam,Pink Spell,NaN,180,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,3,Sail,Black,Chrome,NaN,185,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,3,Black,Black,White,NaN,175,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,3,Black,Black,Dark Smoke Grey,NaN,175,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,3,White,White,White,NaN,175,True
+Air Max 97 SE,False,Women,Shoes,False,False,False,True,4,White,Pearl Pink,Action Green,Black,175,True
+Blazer Mid '77,False,Women,Shoes,True,False,False,True,4,White,Peach,Summit White,Pink Oxford,105,False
+Blazer Mid '77,False,Women,Shoes,False,False,False,True,4,White,Sail,Gum Medium Brown,Peach Cream,105,False
+Blazer Mid '77,False,Women,Shoes,True,False,False,True,4,White,White,Peach,White,105,False
+Blazer Mid '77,False,Women,Shoes,True,False,False,True,4,White,Picante Red,Fuchsia Dream,Stadium Green,105,False
+Blazer Mid '77,False,Women,Shoes,True,False,False,True,4,White,Sail,Peach,Black,105,False
+Blazer Mid '77,False,Women,Shoes,True,False,False,True,4,White,Sail,Black,Game Royal,105,False
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Summit White,Barely Rose,Pink Oxford,Light Soft Pink,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Summit White,Mica Green,Light Silver,Summit White,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Phantom,Hemp,Sanddrift,Black,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Photon Dust,Sail,Tawny,Photon Dust,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,White,White,White,White,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Hemp,Sanddrift,Summit White,White,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Medium Olive,Canyon Rust,Midnight Navy,Phantom,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,Black,Iron Grey,Oil Grey,Black,150,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,4,White,Fuchsia Dream,Baltic Blue,Bright Crimson,160,True
+Air Max 90 Futura,False,Women,Shoes,False,False,False,True,3,Sail,Chrome,Black,NaN,160,True
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,Phantom,Black,Sail,Metallic Gold,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,Sail,Phantom,White,Pink Oxford,85,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,White,Jade Ice,Black,Light Fusion Red,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,Summit White,Platinum Tint,Hemp,Sail,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,3,White,Jade Ice,Emerald Rise,NaN,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,3,White,White,Black,NaN,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,3,Black,Black,White,NaN,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,3,Pearl Pink,White,Coral Chalk,NaN,85,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,White,Pearl Pink,Green Strike,Cobalt Bliss,85,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,3,White,Photon Dust,Ocean Bliss,NaN,85,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,White,White,Photon Dust,White,90,False
+Air Max SC SE,False,Women,Shoes,False,False,False,True,4,White,Team Orange,Metallic Summit White,Black,90,False
+Air Max Pulse,False,Women,Shoes,False,False,False,True,4,Cobblestone,Light Orewood Brown,Black,Reflect Silver,150,True
+Air Max Pulse,False,Women,Shoes,False,False,False,True,4,Aura,Blue Tint,Aluminum,Reflect Silver,150,True
+Air Max Pulse,False,Women,Shoes,False,False,False,True,4,Black,Anthracite,Particle Grey,Black,150,True
+Air Max Pulse,False,Women,Shoes,False,False,False,True,4,Phantom,High Voltage,White,Reflective Silver,150,True
+Air Max Pulse,False,Women,Shoes,False,False,False,True,4,White,Summit White,Platinum Tint,White,150,True
+Vaporfly 3,False,Women,Road Racing Shoes,False,False,False,True,4,White,Particle Grey,Metallic Silver,Dark Smoke Grey,250,True
+Vaporfly 3,False,Women,Road Racing Shoes,False,False,False,True,4,White,Jade Ice,Clear Jade,Deep Jungle,250,True
+Vaporfly 3,False,Women,Road Racing Shoes,True,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,250,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Sail,Phantom,Diffused Taupe,Blue Whisper,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Light Photo Blue,Track Red,Black,Metallic Silver,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Pearl Pink,Football Grey,Baltic Blue,Wolf Grey,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Mantra Orange,Enamel Green,Bicoastal,Ghost Green,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,True,False,True,4,Pure Platinum,Baltic Blue,Black,Green Abyss,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Team Gold,Baltic Blue,Stadium Green,Volt,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Black,Dark Grey,Wolf Grey,Aura,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Black,Canyon Rust,Mint Foam,Alligator,140,True
+Pegasus Trail 4,False,Women,Trail Running Shoes,False,False,False,True,4,Volt,Black,Summit White,Bright Cactus,140,True
+Blazer Low Platform,False,Women,Shoes,False,False,False,True,4,Sail,Sail,Black,Sail,100,False
+Blazer Low Platform,False,Women,Shoes,False,False,False,True,4,Pink Oxford,Summit White,Pink Oxford,Rose Whisper,100,False
+Blazer Low Platform,False,Women,Shoes,False,False,False,True,3,Sail,White,Indigo Haze,NaN,100,False
+Blazer Low Platform,False,Women,Shoes,False,False,False,True,4,White,Sail,Team Orange,Black,100,False
+Blazer Low Platform,False,Women,Shoes,False,False,False,True,4,Sail,Gum Medium Brown,Tawny,Black,110,False
+Court Vision Alta,False,Women,Shoes,False,False,False,True,4,Cream II,Saturn Gold,White,Cream II,85,False
+Court Vision Alta,False,Women,Shoes,False,False,False,True,4,Pink Oxford,White,Light Soft Pink,Pink Oxford,85,False
+Court Vision Alta,False,Women,Shoes,False,False,False,True,2,Black,White,NaN,NaN,85,False
+Court Vision Alta,False,Women,Shoes,False,False,False,True,4,White,Light Bone,Sail,Archaeo Brown,85,False
+Court Vision Alta,False,Women,Shoes,False,False,False,True,3,White,White,White,NaN,85,False
+Cortez,False,Women,Shoes,False,False,False,True,4,White,Light Photo Blue,Sail,Black,90,False
+Cortez,False,Women,Shoes,False,False,False,True,4,Sail,Sail,Club Gold,Iced Lilac,100,False
+Cortez,False,Women,Shoes,False,False,False,True,4,Sail,Malachite,Coconut Milk,Gorge Green,85,False
+Calm,False,Women,Slides,False,False,False,False,2,Sail,Sail,NaN,NaN,50,False
+Calm,False,Women,Slides,False,False,False,False,2,Sesame,Sesame,NaN,NaN,50,False
+Calm,False,Women,Slides,False,False,False,False,2,Black,Black,NaN,NaN,50,False
+Air Max Solo,False,Women,Shoes,False,True,False,True,4,Light Silver,Buff Gold,Pink Oxford,Summit White,100,False
+Air Max Solo,False,Women,Shoes,False,False,False,True,4,Phantom,Football Grey,Volt,White,100,False
+Air Max Solo,False,Women,Shoes,False,False,False,True,3,White,Pure Platinum,Black,NaN,100,False
+Air Force 1 '07,False,Women,Shoes,False,False,False,True,4,Pearl Pink,White,Pearl Pink,Coral Chalk,110,False
+Air Force 1 '07,False,Women,Shoes,False,False,False,True,4,Summit White,Bright Mandarin,Action Grape,Black,120,False
+Air Force 1 '07,False,Women,Shoes,False,False,False,True,4,Summit White,Light Orewood Brown,Metallic Silver,Pure Platinum,130,True
+Motiva,False,Women,Walking Shoes,False,False,False,True,4,Guava Ice,Summit White,Fuchsia Dream,Guava Ice,110,False
+Motiva,False,Women,Walking Shoes,False,False,False,True,4,Black,Anthracite,White,Black,110,False
+Motiva,False,Women,Walking Shoes,False,False,False,True,4,Light Silver,Green Strike,Coconut Milk,White,110,False
+Motiva,False,Women,Walking Shoes,False,False,False,True,4,Bright Crimson,Fuchsia Dream,Black,Bright Crimson,110,False
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Barely Rose,Pink Rise,Canyon Rust,Cave Purple,130,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Light Silver,Mica Green,Cosmic Fuchsia,Black,130,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Hemp,Sanddrift,Coral Chalk,Earth,140,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Deep Purple,Barely Volt,Blackened Blue,Baltic Blue,140,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Citron Tint,Cool Grey,Summit White,Light Smoke Grey,130,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Smoke Grey,White,130,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,White,Sail,Summit White,Light Smoke Grey,130,True
+Metcon 8,False,Women,Training Shoes,False,False,False,True,4,Football Grey,Blue Whisper,Medium Soft Pink,White,130,True
+Air Max 1 '87,False,Women,Shoes,False,False,False,True,4,White,White,Mint Foam,Phantom,160,True
+Air Force 1 ’07 LX,False,Women,Shoes,False,False,False,True,4,White,White,Mint Foam,Phantom,130,True
+Air Force 1 Premium,False,Women,Shoes,False,False,False,True,3,Pearl Pink,Gum Light Brown,Pearl Pink,NaN,130,True
+Air Force 1 Premium,False,Women,Shoes,False,False,False,True,2,Vachetta Tan,White,NaN,NaN,130,True
+Air Force 1 Premium,False,Women,Shoes,False,False,False,True,3,Velvet Brown,Velvet Brown,Velvet Brown,NaN,130,True
+Blazer Mid Premium,False,Women,Shoes,False,False,False,True,3,Pearl Pink,Gum Light Brown,Pearl Pink,NaN,125,True
+Blazer Mid Premium,True,Women,Shoes,False,False,False,True,3,Mineral,Sail,Mineral,NaN,125,True
+Blazer Mid Premium,False,Women,Shoes,False,False,False,True,2,Alabaster,White,NaN,NaN,125,True
+Blazer Mid Premium,False,Women,Shoes,False,False,False,True,3,Vachetta Tan,White,Vachetta Tan,NaN,125,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Oxygen Purple,Rush Fuchsia,Vivid Purple,Space Purple,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Rosewood,Dark Smoke Grey,Blue Lightning,Pink Spell,165,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Sail,Sea Glass,Deep Jungle,Light Lemon Twist,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Black,Light Photo Blue,Track Red,Vivid Sulfur,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Diffused Taupe,Dark Pony,Sail,Picante Red,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Canyon Rust,Medium Soft Pink,Habanero Red,Barely Volt,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,4,Wolf Grey,Stadium Green,Baltic Blue,Volt,160,True
+Pegasus Trail 4 GORE-TEX,False,Women,Waterproof Trail Running Shoes,False,False,False,True,3,Black,Reflect Silver,Wolf Grey,NaN,160,True
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,4,White,Vivid Sulfur,Vivid Purple,Black,70,False
+Revolution 6,True,Women,Road Running Shoes,False,False,False,True,4,White,Vivid Sulfur,Vivid Purple,Black,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,4,Pearl Pink,White,Pink Bloom,Coral Chalk,75,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,3,Black,Dark Smoke Grey,Black,NaN,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,4,White,Fossil Stone,Black,Pink Spell,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,2,Black,White,NaN,NaN,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Cool Grey,White,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Cool Grey,White,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,3,White,Pure Platinum,Metallic Silver,NaN,70,False
+Revolution 6,False,Women,Road Running Shoes,False,False,False,True,3,Light Violet,White,Champagne,NaN,70,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,4,Black,Orange,Clear,White,75,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,4,Sesame,Desert Ochre,Black,Baroque Brown,75,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,4,White,Light Orewood Brown,Sail,Rush Fuchsia,75,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,3,White,Oil Green,Sea Glass,NaN,75,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,4,White,Bright Cactus,Phantom,Hot Punch,80,False
+Waffle Debut,False,Women,Shoes,False,False,False,True,4,White,Black,Orange,White,75,False
+Celso Girl,False,Women,Slides,False,False,False,True,2,Black,White,NaN,NaN,26,False
+Waffle One,False,Women,Shoes,False,False,False,True,3,White,Black,White,NaN,105,False
+Waffle One,False,Women,Shoes,False,False,False,True,4,Sail,Pearl White,Black,Gym Red,115,False
+Waffle One,False,Women,Shoes,False,False,False,True,4,Game Royal,Stadium Green,Picante Red,Citron Pulse,105,False
+Waffle One,False,Women,Shoes,False,False,False,True,4,Picante Red,Light Photo Blue,Coconut Milk,Sail,110,False
+Waffle One,False,Women,Shoes,False,False,False,True,4,Burgundy Crush,Desert Berry,Black,Phantom,115,False
+Waffle One,False,Women,Shoes,False,False,False,True,4,White,Picante Red,Sail,Summit White,110,False
+Offcourt Adjust,False,Women,Slides,False,False,False,True,4,Photon Dust,Phantom,Light Bone,Sail,40,False
+Offcourt Adjust,False,Women,Slides,False,False,False,True,4,Pearl Pink,Barely Rose,Sesame,Sail,40,False
+Offcourt Adjust,False,Women,Slides,False,False,False,True,3,Black,Black,White,NaN,40,False
+Offcourt Adjust,False,Women,Slides,False,False,False,True,4,Sanddrift,Picante Red,Coconut Milk,Sail,40,False
+Alphafly 2,False,Women,Road Racing Shoes,False,False,False,True,4,Hyper Pink,Laser Orange,White,Black,275,True
+Alphafly 2,False,Women,Road Racing Shoes,False,False,False,True,4,Total Orange,Bright Crimson,Ghost Green,Black,275,True
+Mercurial Superfly 9 Club,True,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,3,White,Pink Blast,Baltic Blue,NaN,70,False
+Chuck Taylor All Star Lift Platform Canvas,False,Women,Shoes,False,False,False,True,1,['White'],NaN,NaN,NaN,70,False
+Pegasus FlyEase By You,False,Custom Women,Custom  Easy On/Off Road Running Shoes,False,True,False,True,4,Multi-Color,Multi-Color,Multi-Color,Multi-Color,150,True
+Air Force 1 '07,True,Women,Shoes,False,False,False,True,4,White,University Red,Wolf Grey,Obsidian,110,False
+"G.T. Cut 2 ""Arike Ogunbowale""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Bright Mandarin,Camellia,Orange Frost,Lime Blast,170,True
+"G.T. Cut 2 ""Arike Ogunbowale""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Sail,Light Orewood Brown,Pink Spell,Black,170,True
+Phantom GT2 Academy FlyEase,False,Easy On/Off Multi-Ground Soccer Cleats,Easy On/Off Multi-Ground Soccer Cleats,False,False,False,True,4,Baltic Blue,White,Laser Blue,Hot Punch,85,False
+Air Max 90 Futura Unlocked By You,False,Custom Women,Custom  Shoes,False,True,False,True,3,Multi-Color,Multi-Color,Multi-Color,NaN,200,True
+Tiempo Legend 10 Academy,True,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,2,Guava Ice,Black,NaN,NaN,80,False
+Tiempo Legend 10 Academy,True,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,80,False
+Air Force 1 Low By You,False,Custom Women,Custom  Shoes,False,True,False,True,4,Multi-Color,Multi-Color,Multi-Color,Multi-Color,130,True
+Vaporfly 2,False,Women,Road Racing Shoes,False,False,False,True,4,University Blue,Light Crimson,Orange Trance,Light Orewood Brown,250,True
+Vaporfly 2,False,Women,Road Racing Shoes,False,False,False,True,4,Black,Fuchsia Dream,White,Bright Crimson,250,True
+Vaporfly 2,False,Women,Road Racing Shoes,False,False,False,True,4,Peach Cream,Green Shock,Barely Green,Black,250,True
+Vaporfly 2,False,Women,Road Racing Shoes,False,False,False,True,4,Coconut Milk,Ghost Green,Mint Foam,Cave Purple,250,True
+Dunk Low,False,Women,Shoes,False,False,False,True,4,Deep Royal Blue,Sesame,Midnight Navy,Dark Obsidian,120,False
+Dunk Low,False,Women,Shoes,False,False,False,True,4,Celestial Gold,Sail,Gold Suede,Wheat Gold,120,False
+Cosmic Unity,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Natural,Total Orange,Green Glow,Natural,150,True
+Renew Run 2,False,Women,Road Running Shoes,False,False,False,True,4,Cave Purple,Black,Lilac,Hyper Pink,90,False
+Rival Jump,False,Track & Field Jumping Spikes,Track & Field Jumping Spikes,False,False,False,True,4,Volt,Mint Foam,Coconut Milk,Cave Purple,70,False
+Rival Jump,False,Track & Field Jumping Spikes,Track & Field Jumping Spikes,False,False,False,True,4,Black,Dark Smoke Grey,Light Smoke Grey,Metallic Silver,70,False
+Offcourt Duo,False,Women,Slides,False,False,False,True,3,White,White,Black,NaN,45,False
+Offcourt Duo,False,Women,Slides,False,False,False,True,3,Black,Black,White,NaN,45,False
+Air Max 1,False,Women,Shoes,False,False,False,False,4,Neutral Grey,White,Black,Fuchsia Dream,140,True
+Air Max Bolt,False,Women,Shoes,False,False,False,True,3,White,White,White,NaN,95,False
+Air Max Bolt,False,Women,Shoes,False,False,False,True,4,Football Grey,Infinite Lilac,Green Glow,Wild Berry,95,False
+Air Max Bolt,False,Women,Shoes,False,False,False,True,3,White,White,Black,NaN,95,False
+Air Max Bolt,False,Women,Shoes,False,False,False,True,3,White,Siren Red,Metallic Platinum,NaN,95,False
+Renew Ride 3,False,Women,Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Smoke Grey,White,80,False
+Renew Ride 3,False,Women,Road Running Shoes,False,False,False,True,2,Black,White,NaN,NaN,85,False
+Renew Ride 3,False,Women,Road Running Shoes,False,False,False,True,4,Venice,Rush Pink,Light Curry,Blackened Blue,80,False
+TC 7900,False,Women,Shoes,False,False,False,True,3,Sail,Black,Sail,NaN,120,False
+Giannis Immortality,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Ashen Slate,Black,Photo Blue,White,85,False
+Giannis Immortality,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Arctic Orange,Light Marine,Light Madder Root,Medium Blue,85,False
+Jordan Sophia,False,Women,Slides,False,False,False,True,3,Sea Coral,Sail,White,NaN,85,False
+Jordan Sophia,False,Women,Slides,False,False,False,True,3,Baltic Blue,White,Blue Chambray,NaN,85,False
+Jordan Sophia,False,Women,Slides,False,False,False,True,3,Team Gold,White,Alabaster,NaN,85,False
+Jordan Sophia,False,Women,Slides,False,False,False,False,4,Canyon Pink,Sail,Ice Blue,Fire Red,85,False
+"LeBron XX ""Four Horsemen""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Sesame,Sail,Midnight Navy,Light Crimson,210,True
+"LeBron XX ""Four Horsemen""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,White,Pure Platinum,Metallic Gold,200,True
+"LeBron XX ""Four Horsemen""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Laser Orange,Hyper Pink,White,Racer Blue,200,True
+"LeBron XX ""Four Horsemen""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Total Orange,Green Strike,Hot Punch,Vivid Purple,200,True
+"LeBron XX ""Four Horsemen""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Light Silver,Lemon Chiffon,Safety Orange,Hyper Royal,200,True
+On Deck,False,Women,Slides,False,False,False,True,3,Black,Sunset Pulse,White,NaN,30,False
+On Deck,False,Women,Slides,False,False,False,True,3,Black,White,Black,NaN,30,False
+On Deck,False,Women,Slides,False,False,False,True,3,Black,Black,White,NaN,30,False
+Air Max Flyknit Racer,False,Women,Shoes,False,False,False,True,4,White,Platinum Tint,Black,Pure Platinum,160,True
+Air Max Flyknit Racer,False,Women,Shoes,False,False,False,True,2,Black,White,NaN,NaN,160,True
+Air Max Flyknit Racer,False,Women,Shoes,False,False,False,True,4,Volt,White,Sequoia,Black,160,True
+Air Max Flyknit Racer,False,Women,Shoes,False,False,False,True,4,Fuchsia Dream,Baltic Blue,Vivid Orange,Black,160,True
+Air Max Flyknit Racer,False,Women,Shoes,False,False,False,True,4,White,Pearl Pink,Football Grey,Medium Soft Pink,160,True
+"Cosmic Unity 2 ""A'ja Wilson""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Siren Red,Metallic Gold,Doll,Black,160,True
+"Cosmic Unity 2 ""A'ja Wilson""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Off White,Football Grey,Ghost Green,Multi-Color,160,True
+"Cosmic Unity 2 ""A'ja Wilson""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Off Noir,Football Grey,Bright Crimson,Multi-Color,160,True
+"Cosmic Unity 2 ""A'ja Wilson""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Coconut Milk,Summit White,University Red,Team Red,160,True
+"Cosmic Unity 2 ""A'ja Wilson""",False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,Football Grey,Off Noir,Multi-Color,160,True
+DBreak Premium,False,Women,Shoes,False,False,False,True,3,Photon Dust,White,Photon Dust,NaN,125,True
+Phantom GX Academy,False,Turf Soccer Shoes,Turf Soccer Shoes,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,85,False
+Phantom GX Academy,False,Turf Soccer Shoes,Turf Soccer Shoes,False,False,False,True,3,Barely Volt,Barely Grape,Gridiron,NaN,85,False
+Air Zoom LJ Elite,False,Track & Field Jumping Spikes,Track & Field Jumping Spikes,False,False,False,True,4,White,Laser Orange,Hyper Pink,Black,150,True
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,White,Pink Blast,Photon Dust,Game Royal,100,False
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,White,Canyon Gold,Pinksicle,Court Purple,100,False
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,White,Copa,Light Liquid Lime,100,False
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Game Royal,University Blue,White,University Red,100,False
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Tour Yellow,Black,White,Black,100,False
+Jordan One Take 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,3,Black,White,Metallic Gold,NaN,100,False
+Metcon 9,False,Women,Training Shoes,False,False,False,False,4,Pink Oxford,Diffused Taupe,Pearl Pink,White,140,True
+Metcon 9,False,Women,Training Shoes,False,False,False,False,4,Black,Anthracite,Smoke Grey,White,150,True
+Metcon 9,False,Women,Training Shoes,False,False,False,False,4,Sail,Guava Ice,Rush Fuchsia,White,150,True
+Metcon 9,False,Women,Training Shoes,False,False,False,False,4,Amber Brown,Light Bone,Mica Green,Guava Ice,150,True
+Metcon 9,False,Women,Training Shoes,False,False,False,False,4,Jade Ice,Black,Mineral,White,150,True
+Phantom GX Academy Dynamic Fit MG By You,False,Custom Multi-Ground Soccer Cleats,Custom Multi-Ground Soccer Cleats,False,True,False,True,3,Multi-Color,Multi-Color,Multi-Color,NaN,115,False
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,3,Black,Anthracite,White,NaN,160,True
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,2,White,Kelly Green,NaN,NaN,160,True
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,4,White,Lime Blast,Jade Ice,Teal Nebula,160,True
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,4,White,Fuchsia Dream,Black,Citron Tint,160,True
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,3,White,Summit White,Black,NaN,160,True
+Court Air Zoom Vapor 11,False,Women,Hard Court Tennis Shoes,False,False,False,True,3,Sail,Cobalt Bliss,Bright Cactus,NaN,160,True
+Air Max 1 '86 OG G,False,Men,Golf Shoes,False,False,False,True,2,Black,White,NaN,NaN,150,True
+Air Max 1 '86 OG G,False,Men,Golf Shoes,False,False,False,True,2,White,Black,NaN,NaN,150,True
+Free RN 2018,False,Women,Running Shoes,False,False,False,True,4,Wolf Grey,White,Volt,White,100,False
+Free RN 2018,False,Women,Running Shoes,False,False,False,True,2,Black,White,NaN,NaN,100,False
+Free RN 2018,False,Women,Running Shoes,False,False,False,True,2,White,Black,NaN,NaN,100,False
+SB BLZR Court Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,3,White,White,University Red,NaN,90,False
+Kiger 8,False,Women,Trail Running Shoes,False,False,False,True,4,Velvet Brown,Bright Crimson,Yellow Ochre,Enamel Green,140,True
+Hyperdiamond 4 Pro,False,Women,Softball Cleats,False,False,False,True,4,University Red,Team Red,Habanero Red,White,75,False
+Hyperdiamond 4 Pro,False,Women,Softball Cleats,False,False,False,True,4,White,Pure Platinum,Wolf Grey,Black,75,False
+Hyperdiamond 4 Pro,False,Women,Softball Cleats,False,False,False,True,4,Black,Dark Smoke Grey,Wolf Grey,White,75,False
+Zoom Mercurial Superfly 9 Elite FG By You,False,Custom Firm-Ground Soccer Cleats,Custom Firm-Ground Soccer Cleats,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,305,True
+Zoom Mercurial Superfly 9 Elite FG By You,False,Custom Firm-Ground Soccer Cleats,Custom Firm-Ground Soccer Cleats,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,305,True
+Zoom Mercurial Superfly 9 Elite FG By You,False,Custom Firm-Ground Soccer Cleats,Custom Firm-Ground Soccer Cleats,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,305,True
+Zoom Mercurial Superfly 9 Elite FG By You,False,Custom Firm-Ground Soccer Cleats,Custom Firm-Ground Soccer Cleats,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,305,True
+Fury,False,Wrestling Shoes,Wrestling Shoes,False,False,False,True,3,White,Cool Grey,Metallic Gold,NaN,90,False
+Fury,False,Wrestling Shoes,Wrestling Shoes,False,False,False,True,3,Team Royal,White,Black,NaN,90,False
+Fury,False,Wrestling Shoes,Wrestling Shoes,False,False,False,True,2,Black,Dark Grey,NaN,NaN,90,False
+Space Hippie 04,False,Women,Shoes,False,False,False,True,4,Sweet Beet,Team Red,Photon Dust,Black,135,True
+Space Hippie 04,False,Women,Shoes,False,False,False,True,4,Rough Green,Iron Grey,Velvet Brown,Flat Pewter,135,True
+Phantom GT2 Academy MG,False,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,4,Black,Metallic Gold,Dark Grey,Metallic Dark Grey,80,False
+Converse Chuck Taylor All Star High Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['White'],NaN,NaN,NaN,65,False
+Converse Chuck Taylor All Star High Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['Black'],NaN,NaN,NaN,65,False
+Jumpman MVP,True,Women,Shoes,False,False,False,True,4,Black,Varsity Royal,Muslin,White,165,True
+Jumpman MVP,False,Women,Shoes,False,False,False,True,4,Team Gold,Brown Kelp,Sail,Shadow Brown,165,True
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Green Abyss,Desert Ochre,White,Green Abyss,95,False
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Black,White,White,90,False
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Hyper Royal,Gum Light Brown,Black,95,False
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Summit White,Light Silver,Polar,Bright Mandarin,95,False
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,3,Cave Purple,Cave Purple,White,NaN,90,False
+SB Zoom Pogo Plus Premium,False,Skate Shoes,Skate Shoes,False,False,False,True,4,White,White,Gum Light Brown,Black,90,False
+Pegasus Trail 4 By You,False,Custom Women,Custom  Trail Running Shoes,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,170,True
+Air Max Scorpion Flyknit,False,Women,Shoes,False,False,False,True,3,Olive Aura,Volt,White,NaN,250,True
+Air Max Scorpion Flyknit,False,Women,Shoes,False,False,False,True,4,Black,Black,Black,Anthracite,250,True
+Mercurial Superfly 9 Elite,False,Artificial-Grass Soccer Cleats,Artificial-Grass Soccer Cleats,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,275,True
+Cortez TXT,False,Women,Shoes,False,False,False,False,2,Midnight Navy,White,NaN,NaN,90,False
+Triple Jump Elite 2,False,Track & Field Jumping Spikes,Track & Field Jumping Spikes,False,False,False,True,4,White,Laser Orange,Hyper Pink,Black,125,True
+Ebernon Low,False,Women,Shoe,False,False,False,True,2,White,White,NaN,NaN,70,False
+Tiempo Legend 9 Club IC,False,Indoor/Court Soccer Shoes,Indoor/Court Soccer Shoes,False,False,False,True,4,Black,Summit White,Light Photo Blue,Black,50,False
+Crater Impact,False,Women,Shoes,False,False,False,True,4,Desert Berry,Mars Stone,Burgundy Crush,Light Silver,105,False
+ZoomX Dragonfly,False,Track & Field Distance Spikes,Track & Field Distance Spikes,False,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,150,True
+Dunk Low,False,Women,Shoes,False,False,False,False,4,Sail,Tawny,Metallic Silver,Photon Dust,120,False
+Court Air Zoom GP Turbo Osaka Premium,False,Women,Hard Court Tennis Shoes,False,False,False,True,4,Black,Hot Punch,Pink Bloom,Barely Volt,160,True
+Precision 5,False,Basketball Shoes,Basketball Shoes,False,False,False,True,3,Black,Anthracite,White,NaN,70,False
+Court Air Zoom Vapor Pro 2,False,Women,Clay Tennis Shoes,False,False,False,True,2,Black,White,NaN,NaN,120,False
+Dunk High,False,Women,Shoes,False,False,False,True,4,Summit White,Team Red,Gym Red,Black,120,False
+Air Max 1 '86 OG G NRG,True,Men,Golf Shoes,False,False,False,True,4,White,Light Silver,Fuchsia Dream,Clear Jade,170,True
+Air Max 1,True,Men,Shoes,False,False,False,True,4,White,Pure Platinum,Black,University Red,140,True
+Dunk Low Retro,True,Men,Shoes,False,False,False,True,3,White,White,Clear Jade,NaN,110,False
+Dunk Low By You,True,Custom Shoes,Custom Shoes,False,True,False,True,3,Multi-Color,Multi-Color,Multi-Color,NaN,150,True
+P-6000 Premium,False,Shoes,Shoes,False,False,False,True,4,Light Iron Ore,Photon Dust,Flat Pewter,Metallic Silver,120,False
+P-6000 Premium,False,Shoes,Shoes,False,False,False,True,3,Pure Platinum,Black,White,NaN,110,False
+P-6000 Premium,False,Shoes,Shoes,False,False,False,True,4,Coconut Milk,Medium Blue,Photon Dust,Sail,120,False
+Air Huarache Runner,True,Men,Shoes,False,False,False,True,4,Light Smoke Grey,Light Silver,Violet Dust,Black,140,True
+Air Huarache Runner,True,Men,Shoes,False,False,False,True,4,Summit White,White,Pure Platinum,Metallic Silver,140,True
+Air Huarache Runner,False,Men,Shoes,False,False,False,True,4,Black,Medium Ash,Khaki,White,140,True
+"Ja 1 ""Fuel""",True,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Ember Glow,Light Silver,Blue Lightning,Blue Lightning,110,False
+"Tatum 1 ""Old School""",True,Basketball Shoes,Basketball Shoes,False,True,False,True,4,Black,Wolf Grey,Anthracite,Metallic Silver,120,False
+Air Max Pulse,False,Men,Shoes,False,False,False,True,3,White,Summit White,White,NaN,150,True
+Air Max Pulse,False,Men,Shoes,False,False,False,True,4,Cobblestone,Light Orewood Brown,Black,Reflect Silver,150,True
+Air Max Pulse,False,Men,Shoes,False,False,False,True,3,Black,Anthracite,Black,NaN,150,True
+Air Max Pulse,False,Men,Shoes,False,False,False,True,4,Phantom,High Voltage,White,Reflective Silver,150,True
+Air Max Pulse,True,Men,Shoes,False,False,False,True,4,Summit White,Pure Platinum,Safety Orange,Black,150,True
+Air Max Solo,False,Men,Shoes,False,True,False,True,4,Phantom,Football Grey,Volt,White,100,False
+Air Max Solo,False,Men,Shoes,False,True,False,True,3,White,Pure Platinum,Black,NaN,100,False
+Air Max Solo,False,Men,Shoes,False,True,False,True,4,Black,Clear Jade Ii,Vivid Sulfur,Metallic Dark Grey,100,False
+Air Force 1 '07,False,Men,Shoes,True,False,False,True,2,White,White,NaN,NaN,110,False
+Air Force 1 '07,False,Men,Shoes,False,False,False,True,2,White,Black,NaN,NaN,110,False
+Air Force 1 '07,False,Men,Shoes,False,False,False,True,2,Black,White,NaN,NaN,110,False
+Air Force 1 '07,False,Men,Shoes,True,False,False,True,2,Black,Black,NaN,NaN,110,False
+Dunk High Retro,False,Men,Shoes,False,False,False,True,3,White,White,Velvet Brown,NaN,125,True
+Dunk High Retro,False,Men,Shoes,False,False,False,True,3,White,Total Orange,Black,NaN,125,True
+Dunk High Retro,False,Men,Shoes,False,False,False,False,4,White,White,Picante Red,Picante Red,125,True
+Dunk High Retro,False,Men,Shoes,False,False,False,True,3,Monarch,Sail,Monarch,NaN,125,True
+Dunk High Retro,False,Men,Shoes,False,False,False,True,4,Team Gold,Team Gold,Safety Orange,Wheat Gold,125,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,White,Pale Ivory,Rush Fuchsia,Multi-Color,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,4,White,Coconut Milk,Volt,Multi-Color,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,Black,Sail,Jade Ice,Citron Tint,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,Racer Blue,Black,Sundial,White,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,White,Football Grey,Bright Mandarin,Multi-Color,140,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,4,White,Black,Photon Dust,Wolf Grey,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,True,False,True,4,Light Iron Ore,Flat Pewter,Mica Green,Black,140,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,Black,White,Bright Mandarin,Multi-Color,140,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,White,Light Orewood Brown,Phantom,Obsidian,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,3,Black,Iron Grey,White,NaN,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,3,Black,Light Crimson,White,NaN,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,3,Black,Anthracite,Black,NaN,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,4,White,Light Orewood Brown,Phantom,Obsidian,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,False,False,False,True,4,Black,Green Abyss,Baltic Blue,Hyper Pink,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,4,Midnight Navy,Black,Racer Blue,Pure Platinum,130,True
+Pegasus 40 SE,False,Men,Road Running Shoes,True,False,False,True,3,Black,Iron Grey,White,NaN,130,True
+Invincible 3,False,Men,Road Running Shoes,False,False,False,True,4,White,Volt,Hyper Pink,Black,180,True
+Invincible 3,False,Men,Road Running Shoes,True,False,False,True,4,White,Sail,Oatmeal,Obsidian,180,True
+Invincible 3,False,Men,Road Running Shoes,True,False,False,True,4,Black,Dark Grey,White,White,180,True
+Invincible 3,False,Men,Road Running Shoes,False,True,False,True,4,Cool Grey,Pewter,Iron Grey,Black,190,True
+Invincible 3,False,Men,Road Running Shoes,False,False,False,True,4,White,Lime Blast,Blue Lightning,Black,180,True
+Invincible 3,False,Men,Road Running Shoes,True,False,False,True,4,White,University Red,Photo Blue,Black,180,True
+Invincible 3,True,Men,Road Running Shoes,True,False,False,True,2,Black,White,NaN,NaN,180,True
+Invincible 3,False,Men,Road Running Shoes,True,False,False,True,4,College Navy,Midnight Navy,Black,Metallic Silver,180,True
+Air Jordan 1 Low SE,True,Men,Shoes,False,False,False,True,4,Hemp,White,Black,Light British Tan,120,False
+Air Jordan 1 Mid SE,True,Men,Shoes,False,False,False,True,4,Light Orewood Brown,White,Light British Tan,Metallic Gold,135,True
+Air Max 90,True,Men,Shoes,False,False,False,True,4,Neutral Olive,Medium Olive,Sequoia,Neutral Olive,130,True
+Air Max 90,False,Men,Shoes,False,False,False,True,4,Summit White,Ironstone,Black,Red Stardust,130,True
+Air Max 90,False,Men,Shoes,False,False,False,True,4,White,Anthracite,Pure Platinum,Spring Green,130,True
+Air Max 90,False,Men,Shoes,False,False,False,True,4,Photon Dust,Cool Grey,Black,Light Thistle,130,True
+Air Max 97,True,Men,Shoes,True,False,False,True,4,Medium Olive,Sequoia,Black,Light Silver,175,True
+Air Max 97,False,Men,Shoes,True,False,False,True,3,White,Black,Wolf Grey,NaN,175,True
+Air Max 97,False,Men,Shoes,False,False,False,True,4,White,Particle Grey,Photon Dust,Varsity Red,175,True
+Air Max 97,False,Men,Shoes,False,False,False,True,4,Light Bone,Khaki,Sail,Black,175,True
+Air Max 97,False,Men,Shoes,True,False,False,True,3,Black,Anthracite,White,NaN,175,True
+Air Max 97,False,Men,Shoes,False,False,False,True,4,Pink Gaze,White,Black,Hyper Pink,185,True
+Air Max 97,False,Men,Shoes,True,False,False,True,2,Black,White,NaN,NaN,175,True
+Air Max 97,False,Men,Shoes,False,False,False,True,4,Pure Platinum,Black,White,Volt,175,True
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,3,White,Pure Platinum,Game Royal,NaN,105,False
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,4,White,Wolf Grey,Black,Safety Orange,105,False
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,3,Black,Sail,Sail,NaN,105,False
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,2,White,Black,NaN,NaN,105,False
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,4,White,Coconut Milk,White,Picante Red,105,False
+Air Jordan 1 Retro High OG,False,Men,Shoes,True,False,False,False,3,University Blue,White,Black,NaN,180,True
+Air Jordan 1 Retro High OG,False,Men,Shoes,True,False,False,True,4,Tech Grey,Black,White,Muslin,180,True
+Dunk Low Retro,True,Men,Shoes,False,False,False,True,3,White,Summit White,Black,NaN,110,False
+Dunk Low Retro,True,Men,Shoes,False,False,False,True,2,White,Picante Red,NaN,NaN,110,False
+Air VaporMax 2023 Flyknit,False,Men,Shoes,True,False,False,True,4,Black,White,Black,White,210,True
+Air VaporMax 2023 Flyknit,True,Men,Shoes,True,False,False,True,4,Track Red,Track Red,Track Red,Mystic Red,210,True
+Air VaporMax 2023 Flyknit,False,Men,Shoes,True,False,False,True,4,Baltic Blue,Green Abyss,Hot Punch,Citron Tint,210,True
+Air VaporMax 2023 Flyknit,False,Men,Shoes,True,False,False,True,4,Pure Platinum,Pure Platinum,Pure Platinum,White,210,True
+Air VaporMax 2023 Flyknit,True,Men,Shoes,True,False,False,True,4,Black,Anthracite,Black,Black,210,True
+Air VaporMax Plus,True,Men,Shoes,False,False,False,True,4,Night Maroon,Black,Cedar,White,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,3,White,Pure Platinum,White,NaN,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,4,Black,Game Royal,White,Metallic Silver,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,4,Work Blue,Diffused Blue,White,Cool Grey,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,4,Oil Green,Medium Olive,Metallic Silver,White,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,4,White,Aurora Green,Black,Fierce Purple,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,3,Black,Black,Dark Grey,NaN,210,True
+Air VaporMax Plus,False,Men,Shoes,False,False,False,True,4,Black,Total Orange,Total Crimson,Black,210,True
+Air Max 270,True,Men,Shoes,False,False,False,True,4,Night Maroon,White,Cedar,Black,160,True
+Air Max 270,False,Men,Shoes,False,False,False,True,4,White,Industrial Blue,Blue Lightning,Citron Pulse,160,True
+Air Max 270,False,Men,Shoes,False,False,False,True,4,White,Midnight Navy,Psychic Blue,Chile Red,160,True
+Air Max 270,False,Men,Shoes,True,False,False,True,3,White,White,Black,NaN,160,True
+Air Max 270,False,Men,Shoes,True,False,False,True,3,Black,Black,Black,NaN,160,True
+Air Max 270,False,Men,Shoes,True,False,False,True,4,Black,White,Solar Red,Anthracite,160,True
+Air Max 270,False,Men,Shoes,False,False,False,True,4,Medium Olive,Oil Green,Metallic Silver,White,160,True
+Air Jordan Legacy 312 Low,True,Men,Shoes,False,False,False,True,4,White,Black,Wolf Grey,Fire Red,145,True
+Air Jordan Legacy 312 Low,True,Men,Shoes,False,False,False,True,4,Black,Valor Blue,University Red,Wolf Grey,145,True
+Air Jordan 7 Retro,True,Men,Shoes,True,False,False,True,4,Black,Light Graphite,White,Chambray,200,True
+Jumpman MVP,False,Men,Shoes,False,False,False,True,4,Black,University Red,Anthracite,Dark Concord,165,True
+Jumpman MVP,True,Men,Shoes,False,False,False,True,3,Black,White,University Blue,NaN,165,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,4,Blue Tint,Guava Ice,Medium Olive,Teal Nebula,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,4,Ghost Green,Space Purple,Black,Racer Blue,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,4,Black,Black,University Red,White,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,4,Wolf Grey,Hyper Royal,Blue Lightning,Pink Spell,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,3,White,Black,Metallic Silver,NaN,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,4,Light Orewood Brown,Sesame,Sail,Coral Chalk,160,True
+LeBron NXXT Gen,False,Basketball Shoes,Basketball Shoes,True,False,False,True,3,Black,Medium Soft Pink,White,NaN,160,True
+Air Force 1 '07 LV8,True,Men,Shoes,False,True,False,True,4,Light Silver,Light Silver,White,Black,130,True
+Air Force 1 '07 LV8,True,Men,Shoes,False,True,False,True,4,White,Deep Royal Blue,Baltic Blue,Light Photo Blue,130,True
+Air Force 1 Mid '07 LV8,True,Men,Shoes,False,True,False,True,4,Summit White,Stadium Green,Coconut Milk,Black,140,True
+Air Force 1 Mid '07 LV8,True,Men,Shoes,False,True,False,True,4,Black,Light Silver,University Red,Coconut Milk,140,True
+Freak 5,True,Basketball Shoes,Basketball Shoes,False,False,False,False,4,Gym Red,Fir,Court Purple,Metallic Gold,140,True
+Freak 5,True,Basketball Shoes,Basketball Shoes,False,False,False,False,4,Black,Fuchsia Dream,Baltic Blue,Phantom,130,True
+G.T. Jump 2,True,Men,Basketball Shoes,False,True,False,True,4,Mica Green,Jade Ice,Industrial Blue,Bright Crimson,180,True
+G.T. Jump 2,True,Men,Basketball Shoes,False,True,False,True,4,Black,White,Blue Tint,Black,180,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Black,Anthracite,Football Grey,White,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,2,Mica Green,Medium Olive,NaN,NaN,170,True
+G.T. Cut 2,True,Men,Basketball Shoes,False,False,False,True,4,Track Red,Ember Glow,Sail,Football Grey,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Black,Desert Berry,Valerian Blue,Metallic Summit White,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Black,Phantom,Pure Platinum,Cone,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,False,4,Industrial Blue,Jade Ice,Bright Crimson,Black,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Aura,Barely Green,Vivid Sky,Sail,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Black,Anthracite,Bright Crimson,White,170,True
+G.T. Cut 2,False,Men,Basketball Shoes,False,False,False,True,4,Black,Off Noir,Racer Blue,Black,170,True
+Vaporfly 3,True,Men,Road Racing Shoes,True,False,False,True,4,White,Jade Ice,Clear Jade,Deep Jungle,250,True
+Vaporfly 3,False,Men,Road Racing Shoes,True,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,250,True
+Vaporfly 3,False,Men,Road Racing Shoes,True,False,False,True,4,White,Particle Grey,Metallic Silver,Dark Smoke Grey,250,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Black,Light Photo Blue,Track Red,Vivid Sulfur,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Spring Green,Olive Flak,Mint Foam,Black,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Diffused Taupe,Dark Pony,Sail,Picante Red,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Noble Green,Pro Green,Sail,Picante Red,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Anthracite,Ironstone,Ale Brown,Bright Mandarin,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,3,Black,Reflect Silver,Wolf Grey,NaN,160,True
+Pegasus Trail 4 GORE-TEX,False,Men,Waterproof Trail Running Shoes,False,False,False,True,4,Khaki,Light Bone,Ironstone,Citron Tint,160,True
+Cosmic Unity 3 (Team),False,Basketball Shoes,Basketball Shoes,False,False,False,True,3,Wolf Grey,White,White,NaN,160,True
+Cosmic Unity 3 (Team),True,Basketball Shoes,Basketball Shoes,False,False,False,True,3,Midnight Navy,White,White,NaN,160,True
+Cosmic Unity 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Rush Fuchsia,Fuchsia Dream,Black,Light Lemon Twist,160,True
+Cosmic Unity 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Pale Vanilla,Topaz Gold,Sanddrift,Sea Coral,160,True
+Cosmic Unity 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,Sail,Pink Spell,Brilliant Orange,160,True
+Cosmic Unity 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Summit White,Pure Platinum,White,Black,160,True
+Cosmic Unity 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Phantom,Bright Cactus,Light Bone,Medium Soft Pink,170,True
+Free Metcon 5,True,Men,Training Shoes,True,False,False,True,4,Mica Green,Amber Brown,Medium Ash,Campfire Orange,120,False
+Free Metcon 5,False,Men,Training Shoes,True,False,False,True,4,Smoke Grey,Iron Grey,Black,Smoke Grey,120,False
+Free Metcon 5,False,Men,Training Shoes,True,False,False,True,4,Summit White,Light Silver,Iron Grey,Bright Mandarin,120,False
+Free Metcon 5,False,Men,Training Shoes,True,False,False,True,4,Racer Blue,White,Obsidian,Sundial,120,False
+Free Metcon 5,False,Men,Training Shoes,True,False,False,True,3,Sequoia,Light Silver,High Voltage,NaN,120,False
+Free Metcon 5,False,Men,Training Shoes,True,False,False,True,3,Black,Anthracite,White,NaN,120,False
+SB Zoom Nyjah 3,True,Skate Shoes,Skate Shoes,False,False,False,True,4,Skylight,Skylight,White,University Red,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Enamel Green,Enamel Green,White,White,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Black,White,White,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Black,Summit White,White,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,White,Summit White,Hyper Pink,Black,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Summit White,Tour Yellow,Lucky Green,Black,115,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Game Royal,Game Royal,Game Royal,White,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,University Red,University Red,University Red,White,110,False
+SB Zoom Nyjah 3,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Hot Punch,Hot Punch,Hot Punch,White,110,False
+Air Max 90,False,Men,Shoes,True,False,False,True,4,Wolf Grey,Black,White,Black,130,True
+Air Max 90,False,Men,Shoes,True,False,False,True,3,White,White,Black,NaN,130,True
+Air Max 90,False,Men,Shoes,True,False,False,True,4,Iron Grey,Dark Smoke Grey,Black,White,130,True
+Air Max 90,False,Men,Shoes,True,False,False,True,4,Black,Black,Black,Black,130,True
+Air Max 90,False,Men,Shoes,True,False,False,True,4,White,White,Wolf Grey,White,130,True
+Air Max Terrascape Plus,False,Men,Shoes,False,False,False,True,4,Black,Anthracite,Black,Anthracite,185,True
+Air Max Terrascape Plus,False,Men,Shoes,False,False,False,False,3,Summit White,Photon Dust,Light Iron Ore,NaN,185,True
+Air Max Terrascape Plus,False,Men,Shoes,False,False,False,True,4,White,White,White,Pure Platinum,185,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,4,Black,Black,Black,Black,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,4,Summit White,Pure Platinum,Wolf Grey,Red Clay,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,3,Sail,Sea Glass,Black,NaN,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,3,Summit White,Photon Dust,Light Iron Ore,NaN,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,4,White,White,White,White,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,4,Midnight Navy,Obsidian,Black,Noise Aqua,140,True
+Air Max Terrascape 90,False,Men,Shoes,False,False,False,True,4,Phantom,Olive Aura,Canyon Purple,Vivid Green,140,True
+Free Run 2018,False,Men,Road Running Shoes,False,False,False,True,2,White,Black,NaN,NaN,100,False
+Free Run 2018,False,Men,Road Running Shoes,False,False,False,True,2,Black,White,NaN,NaN,100,False
+Free Run 2018,False,Men,Road Running Shoes,False,False,False,True,4,Wolf Grey,White,Volt,White,100,False
+Free Run 2018,False,Men,Road Running Shoes,False,False,False,True,2,Black,Anthracite,NaN,NaN,100,False
+Air Jordan I High G,False,Men,Golf Shoes,False,False,False,True,2,White,Black,NaN,NaN,180,True
+Air Jordan I High G,False,Men,Golf Shoes,False,False,False,True,2,White,Pine Green,NaN,NaN,180,True
+Air Jordan 1 Low G,False,Golf Shoes,Golf Shoes,False,False,False,True,4,White,Phantom,Volt,Black,140,True
+Air Jordan 1 Low G,False,Golf Shoes,Golf Shoes,False,False,False,True,3,White,Midnight Navy,Black,NaN,140,True
+Air Jordan 1 Low G,False,Golf Shoes,Golf Shoes,False,False,False,True,4,Black,Iron Grey,White,Black,140,True
+Air Jordan 1 Low G,False,Golf Shoes,Golf Shoes,False,False,False,True,3,White,Pure Platinum,White,NaN,140,True
+Air Jordan 1 Low G,False,Golf Shoes,Golf Shoes,False,False,False,True,4,White,Noble Green,Pollen,Black,140,True
+Jordan Why Not .6,False,Men,Shoes,False,False,False,True,3,Black,White,Metallic Gold,NaN,140,True
+Jordan Why Not .6,False,Men,Shoes,False,False,False,True,4,Barely Volt,Black,Volt,Hyper Pink,150,True
+Jordan Why Not .6,False,Men,Shoes,False,False,False,True,4,Bright Concord,Black,Vivid Sulfur,Pink Prime,140,True
+Jordan Why Not .6,False,Men,Shoes,False,False,False,True,4,White,Light Liquid Lime,Pink Blast,Black,140,True
+Air Max 97 OG,False,Men,Shoes,False,False,False,True,4,Metallic Gold,Black,White,Varsity Red,185,True
+Air Max 97 OG,False,Men,Shoes,False,False,False,True,4,Atlantic Blue,Metallic Silver,Black,Voltage Yellow,185,True
+Air Max 97 OG,False,Men,Shoes,False,False,False,True,4,Metallic Silver,Midnight Navy,Summit White,Chlorine Blue,185,True
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,4,Track Red,Rush Fuchsia,Photon Dust,Black,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,4,Ocean Bliss,Mineral Teal,Citron Tint,White,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,3,Football Grey,Blue Lightning,Iron Grey,NaN,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,3,Light Smoke Grey,Hot Punch,Black,NaN,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,4,Medium Soft Pink,White,Gum Light Brown,Black,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,2,Photon Dust,White,NaN,NaN,85,False
+Roshe G Next Nature,False,Men,Golf Shoes,False,False,False,True,2,Black,White,NaN,NaN,85,False
+Calm,False,Men,Slides,False,False,False,False,2,Geode Teal,Geode Teal,NaN,NaN,50,False
+Calm,False,Men,Slides,False,False,False,False,2,Sesame,Sesame,NaN,NaN,50,False
+Calm,False,Men,Slides,False,False,False,False,2,Sail,Sail,NaN,NaN,50,False
+Calm,False,Men,Slides,False,False,False,False,2,Black,Black,NaN,NaN,50,False
+Offcourt (MLB Cincinnati Reds),False,Slide,Slide,False,False,False,True,3,Black,Sport Red,White,NaN,40,False
+Jordan Series ES,False,Men,Shoes,False,False,False,True,2,Celestial Gold,Sail,NaN,NaN,85,False
+Jordan Series ES,False,Men,Shoes,False,False,False,True,2,Light Iron Ore,Sail,NaN,NaN,85,False
+CTR360 Maestri III FG SE,True,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,3,Sonic Yellow,Black,White,NaN,250,True
+Air Zoom Pegasus 38,False,Men,Road Running Shoes,False,False,False,True,4,Sail,White,Gym Red,Black,120,False
+Air Zoom Pegasus 38,False,Men,Road Running Shoes,False,False,False,True,4,Black,Anthracite,Volt,White,130,True
+Air Zoom Pegasus 38,False,Men,Road Running Shoes,False,False,False,True,4,Wolf Grey,Black,Hyper Royal,White,130,True
+Air Zoom Pegasus 38,False,Men,Road Running Shoes,False,False,False,True,4,Black,Off Noir,Hyper Violet,Flash Crimson,130,True
+Air Zoom Pegasus 38,False,Men,Road Running Shoes,False,False,False,True,4,Barely Volt,Volt,Photon Dust,Black,130,True
+Air Jordan 1 Zoom CMFT 2,True,Men,Shoes,False,False,False,True,3,Cement Grey,University Blue,White,NaN,150,True
+Air Jordan 1 Zoom CMFT 2,True,Men,Shoes,False,False,False,True,4,White,Black,Honeydew,Vapor Green,150,True
+Air Jordan 1 Zoom CMFT 2,False,Men,Shoes,False,False,False,True,4,Bleached Aqua,Black,White,Bright Citrus,150,True
+Air Jordan 1 Zoom CMFT 2,False,Men,Shoes,False,False,False,True,4,Light Orewood Brown,Sail,Celestial Gold,Bright Citrus,150,True
+Offcourt (Oklahoma State),False,Slide,Slide,False,False,False,True,3,Black,Total Orange,White,NaN,40,False
+BRSB,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Black,White,White,90,False
+BRSB,False,Skate Shoes,Skate Shoes,False,False,False,True,4,White,White,Black,Black,90,False
+BRSB,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Ghost Green,Scream Green,Sail,Bright Crimson,90,False
+BRSB,False,Skate Shoes,Skate Shoes,False,False,False,True,4,White,Varsity Royal,White,Varsity Red,90,False
+BRSB,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Navy,Navy,University Red,White,90,False
+Air Trainer 1,True,Men,Shoes,False,True,False,True,4,White,Black,Coconut Milk,University Red,130,True
+Delaware State,False,Nike College Offcourt Slides,College Offcourt Slides,False,False,False,True,3,Black,Blue Glow,Pimento,NaN,40,False
+Cortez Unlocked By You,True,Custom Women,Custom  Shoes,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,130,True
+Offcourt (MLB San Diego Padres),False,Slide,Slide,False,False,False,True,3,Black,Dark Cinder,Amarillo,NaN,40,False
+Alpha Huarache Elite 4 Low,True,Men,Baseball Cleats,False,False,False,True,4,White,Light Bone,Geode Teal,Clear Jade,90,False
+ACG Mountain Fly 2 Low,False,Men,Shoes,False,False,False,True,4,Gridiron,Summit White,Summit White,Black,150,True
+Alpha Menace Elite 3 RW,False,Men,Football Cleats,False,False,False,True,4,College Navy,White,Brilliant Orange,White,200,True
+Blazer Mid '77 Vintage,False,Men,Shoes,False,False,False,True,4,Sail,Safety Orange,Black,Stadium Green,110,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,4,Phantom,Gridiron,Bright Cactus,Mineral Teal,120,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,2,White,White,NaN,NaN,120,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,4,White,Green Strike,Washed Teal,Midnight Navy,120,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,4,Gridiron,Cobalt Bliss,Green Strike,Stadium Green,120,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,2,White,Kelly Green,NaN,NaN,120,False
+Court Air Zoom Vapor Pro 2,False,Men,Hard Court Tennis Shoes,False,False,False,True,2,Black,White,NaN,NaN,120,False
+Alpha Huarache 8 Pro Turf,False,Lacrosse Shoes,Lacrosse Shoes,False,False,False,True,4,White,Pure Platinum,Wolf Grey,White,80,False
+Alpha Huarache 8 Pro Turf,False,Lacrosse Shoes,Lacrosse Shoes,False,False,False,True,4,Black,Light Smoke Grey,Dark Smoke Grey,Black,80,False
+Offcourt (MLB Arizona Diamondbacks),False,Slide,Slide,False,False,False,True,3,Black,Team Crimson,Team Gold,NaN,40,False
+Mercurial Superfly 9 Pro,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,160,True
+"Zion 2 ""Full Moon""",False,Men,Basketball Shoes,False,False,False,True,4,Celestial Gold,Citron Tint,Alabaster,Topaz Gold,130,True
+Renew Ride 3,False,Men,Road Running Shoes,False,False,False,True,4,Black,White,Smoke Grey,University Red,80,False
+Renew Ride 3,False,Men,Road Running Shoes,False,False,False,True,4,Black,Racer Blue,Sundial,High Voltage,80,False
+Renew Ride 3,False,Men,Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Smoke Grey,White,80,False
+Renew Ride 3,False,Men,Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Iron Grey,Black,80,False
+Renew Ride 3,False,Men,Road Running Shoes,False,False,False,True,4,White,Bright Crimson,Sail,Obsidian,80,False
+Court Air Zoom Vapor 11,False,Men,Hard Court Tennis Shoes,False,False,False,True,4,White,Midnight Navy,Washed Teal,Green Strike,160,True
+Court Air Zoom Vapor 11,False,Men,Hard Court Tennis Shoes,False,False,False,True,3,White,Summit White,Black,NaN,160,True
+Court Air Zoom Vapor 11,False,Men,Hard Court Tennis Shoes,False,False,False,True,2,White,Kelly Green,NaN,NaN,160,True
+Court Air Zoom Vapor 11,False,Men,Hard Court Tennis Shoes,False,False,False,True,4,White,Picante Red,Black,Fuchsia Dream,160,True
+Court Air Zoom Vapor 11,False,Men,Hard Court Tennis Shoes,False,False,False,True,3,Black,Anthracite,White,NaN,160,True
+Air Diamond Varsity Turf,True,Men,Baseball Shoes,False,False,False,True,4,Black,Iron Grey,Pure Platinum,White,70,False
+Air Diamond Varsity Turf,True,Men,Baseball Shoes,False,False,False,True,4,Wolf Grey,Cool Grey,Pure Platinum,White,70,False
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Black,Black,Court Purple,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,College Navy,College Navy,Brilliant Orange,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Black,Black,University Gold,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Black,Black,Team Orange,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Team Orange,Team Orange,Seal Brown,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,True,4,Italy Blue,Italy Blue,University Gold,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,True,4,Marine,Marine,Gym Red,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,College Navy,College Navy,University Red,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Sport Green,Sport Green,Black,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,True,4,Black,Black,Field Silver,White,140,True
+Pegasus 39 (NFL Baltimore Ravens),False,Men,Road Running Shoes,False,False,False,False,4,Coast,Coast,College Navy,White,140,True
+Tiempo Legend 9 Academy MG,False,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,3,Barely Volt,Summit White,Volt,NaN,75,False
+Tiempo Legend 9 Academy MG,False,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,4,Black,Summit White,Light Photo Blue,Dark Smoke Grey,75,False
+Vapor Edge Speed 360 2 TB,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,Fir,NaN,100,False
+Vapor Edge Speed 360 2 TB,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,Team Crimson,NaN,100,False
+Vapor Edge Speed 360 2 TB,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,New Orchid,NaN,100,False
+Vapor Edge Speed 360 2 TB,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,Brilliant Orange,NaN,100,False
+Vapor Edge Speed 360 2 TB,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,College Navy,NaN,100,False
+Air Huarache Crater Premium,False,Men,Shoes,False,False,False,True,4,Light Bone,Black,Volt,White,135,True
+Air Huarache Crater Premium,False,Men,Shoes,False,False,False,True,4,Anthracite,Atomic Orange,White,Black,135,True
+Air Huarache,False,Men,Shoes,False,False,False,False,4,Black,Safety Orange,White,Iron Grey,125,True
+Air Huarache,False,Men,Shoes,False,False,False,True,4,White,Stadium Green,Black,Safety Orange,125,True
+Air Huarache,False,Men,Shoes,False,False,False,False,4,White,University Blue,Lilac,Safety Orange,135,True
+Air Huarache,False,Men,Shoes,False,False,False,True,3,Black,Black,White,NaN,125,True
+Air Huarache,False,Men,Shoes,False,False,False,True,4,Black,Armory Navy,Valerian Blue,University Gold,130,True
+Air Huarache,False,Men,Shoes,False,False,False,True,4,Light Iron Ore,Flat Pewter,Photon Dust,Obsidian,69.97,False
+Air Huarache,False,Men,Shoes,False,False,False,True,2,White,Black,NaN,NaN,125,True
+Air Huarache,False,Men,Shoes,False,False,False,True,4,White,Infrared 23,Black,Metallic Silver,69.97,False
+Air Huarache,False,Men,Shoes,False,False,False,True,3,Black,Anthracite,Black,NaN,125,True
+Air Huarache,False,Men,Shoes,False,False,False,True,2,White,Pure Platinum,NaN,NaN,125,True
+Zoom Mercurial Vapor 15 Academy FG/MG By You,False,Custom Multi-Ground Soccer Cleats,Custom Multi-Ground Soccer Cleats,False,True,False,True,2,Multi-Color,Multi-Color,NaN,NaN,115,False
+Air Force 1 '07 LV8,False,Men,Shoes,False,False,False,True,4,Sanddrift,Citron Pulse,Hemp,Sail,130,True
+Air Force 1 '07 LV8,False,Men,Shoes,False,False,False,True,4,Black,Black,Anthracite,Sail,130,True
+Waffle Debut,False,Men,Shoes,False,False,False,True,4,Summit White,Picante Red,Pure Platinum,Black,75,False
+Waffle Debut,False,Men,Shoes,False,False,False,True,4,White,Summit White,White,Black,75,False
+Waffle Debut,False,Men,Shoes,False,False,False,False,4,Boarder Blue,Sanded Gold,Atomic Green,Mystic Navy,70,False
+Waffle Debut,False,Men,Shoes,False,False,False,True,4,Black,Off Noir,Anthracite,Black,75,False
+Waffle Debut,False,Men,Shoes,False,False,False,True,4,Grey Fog,Light Smoke Grey,White,White,75,False
+Waffle Debut,False,Men,Shoes,False,False,False,True,4,Black,Orange,Clear,White,75,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Team Red,Cave Purple,Blackened Blue,Bright Crimson,100,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Game Royal,Baltic Blue,Black,Picante Red,100,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Pure Platinum,Black,Volt,Fuchsia Dream,100,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Cool Grey,Flat Pewter,Light Bone,Photon Dust,100,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Black,Anthracite,White,Pure Platinum,100,False
+SuperRep Go 3 Next Nature Flyknit,False,Men,Workout Shoes,False,False,False,True,4,Photon Dust,Sail,Blue Lightning,Anthracite,100,False
+Cortez,False,Men,Shoes,False,False,False,True,4,White,Light Photo Blue,Sail,Black,85,False
+Blazer Mid '77 By You,False,Custom Men,Custom  Shoes,False,True,False,True,3,Multi-Color,Multi-Color,Multi-Color,NaN,125,True
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,3,White,White,Pure Platinum,NaN,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Black,Dark Smoke Grey,Pure Platinum,White,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,3,White,White,Pure Platinum,NaN,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Platinum Tint,Black,White,Light Crimson,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Bright Crimson,Light Orewood Brown,University Gold,Obsidian,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Bright Crimson,Light Orewood Brown,University Gold,Obsidian,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,3,Black,Particle Grey,Dark Smoke Grey,NaN,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Midnight Navy,Dark Obsidian,Pure Platinum,Worn Blue,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Black,Dark Smoke Grey,Pure Platinum,White,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,4,Black,Dark Smoke Grey,Light Smoke Grey,White,70,False
+Downshifter 12,False,Men,Road Running Shoes (Extra Wide),False,False,False,True,3,Black,Particle Grey,Dark Smoke Grey,NaN,70,False
+Killshot 2 Leather,False,Men,Shoe,False,False,False,True,4,Sail,Gum Yellow,Black,Sail,90,False
+Killshot 2 Leather,False,Men,Shoe,False,False,False,True,3,Sail,Gum Yellow,Midnight Navy,NaN,90,False
+Killshot 2 Leather,False,Men,Shoe,False,False,False,True,3,Sail,Gum Yellow,Oil Grey,NaN,90,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,4,Black,Gridiron,Coconut Milk,Indigo Haze,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,2,Black,White,NaN,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,4,Racer Blue,High Voltage,Black,White,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,2,Black,Dark Smoke Grey,NaN,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,3,White,Ashen Slate,Black,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,2,Black,White,NaN,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,3,Aviator Grey,Metallic Silver,Black,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,3,White,Ashen Slate,Black,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,4,Black,Gridiron,Coconut Milk,Indigo Haze,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,2,Black,Dark Smoke Grey,NaN,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,3,Midnight Navy,Dark Obsidian,White,NaN,70,False
+Flex Experience Run 11,False,Men,Running Shoes (Extra Wide),False,False,False,True,3,Bright Crimson,Sail,Obsidian,NaN,70,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Barely Volt,Volt,Phantom,Black,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Racer Blue,Obsidian,Sundial,White,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Phantom,Flat Pewter,Sail,Green Strike,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,3,Black,Iron Grey,White,NaN,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,3,Obsidian,Obsidian,Bright Crimson,NaN,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Light Silver,Iron Grey,Bright Mandarin,Summit White,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Anthracite,White,Black,Blue Lightning,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Sequoia,Light Silver,Medium Olive,High Voltage,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,3,Smoke Grey,Dark Smoke Grey,White,NaN,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,3,Black,Black,Anthracite,NaN,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Photon Dust,Cool Grey,Light Bone,Anthracite,65,False
+Legend Essential 3 Next Nature,False,Men,Workout Shoes,False,False,False,True,4,Adobe,Phantom,Flat Pewter,Light Crimson,65,False
+SB Zoom Blazer Mid Premium Plus,False,Skate Shoes,Skate Shoes,False,False,False,True,2,Pilgrim,Phantom,NaN,NaN,105,False
+SB Zoom Blazer Mid Premium Plus,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Plum Eclipse,Kumquat,Gum Yellow,Plum Eclipse,105,False
+SB Zoom Blazer Mid Premium Plus,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Green Abyss,Phantom,Gum Yellow,Green Abyss,105,False
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,White,Clear Jade,Light Ultramarine,Deep Jungle,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,Sail,Sail,Rattan,Black,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,Sail,Total Orange,Laser Orange,Cobalt Bliss,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,Coconut Milk,Mint Foam,Volt,Cave Purple,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,Photo Blue,Black,Total Orange,University Red,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,3,White,Metallic Silver,Black,NaN,160,True
+Streakfly,False,Road Racing Shoes,Road Racing Shoes,False,False,False,True,4,White,Volt,Racer Blue,Black,170,True
+Rival Multi,False,Track & Field Multi-Event Spikes,Track & Field Multi-Event Spikes,False,False,False,True,4,White,Metallic Silver,Pure Platinum,Black,70,False
+Rival Multi,False,Track & Field Multi-Event Spikes,Track & Field Multi-Event Spikes,False,False,False,True,4,Volt,Mint Foam,Coconut Milk,Cave Purple,70,False
+Rival Multi,False,Track & Field Multi-Event Spikes,Track & Field Multi-Event Spikes,False,False,False,True,4,Black,Light Smoke Grey,Dark Smoke Grey,Metallic Silver,70,False
+Rival Multi,False,Track & Field Multi-Event Spikes,Track & Field Multi-Event Spikes,False,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,70,False
+Air Zoom Victory,False,Track & Field Distance Spikes,Track & Field Distance Spikes,False,False,False,True,3,Hyper Pink,Laser Orange,Black,NaN,180,True
+Air Zoom Victory,False,Track & Field Distance Spikes,Track & Field Distance Spikes,False,False,False,True,3,Mint Foam,Volt,Cave Purple,NaN,180,True
+Offcourt (NFL New York Giants),False,Slide,Slide,False,False,False,True,3,Anthracite,Rush Blue,Gym Red,NaN,40,False
+Air Pegasus '89,False,Men,Shoes,False,False,False,True,3,Black,Photon Dust,Anthracite,NaN,100,False
+Air Pegasus '89,False,Men,Shoes,False,False,False,True,4,Wolf Grey,Team Red,White,Wolf Grey,100,False
+Air Pegasus '89,False,Men,Shoes,False,False,False,True,4,Swan,Rose Coral,Black,Medium Grey,100,False
+Air Max Alpha Trainer 4,False,Men,Workout Shoes,False,False,False,True,3,Black,Anthracite,Black,NaN,85,False
+Air Max Alpha Trainer 4,False,Men,Workout Shoes,False,False,False,True,4,Light Smoke Grey,Dark Smoke Grey,Limelight,White,85,False
+Converse Chuck Taylor All Star Low Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['Navy'],NaN,NaN,NaN,60,False
+Converse Chuck Taylor All Star Low Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['Black'],NaN,NaN,NaN,60,False
+Converse Chuck Taylor All Star Low Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['White'],NaN,NaN,NaN,60,False
+LeBron 2,False,Men,Shoes,False,False,False,True,3,White,Varsity Crimson,Metallic Gold,NaN,210,True
+LeBron 2,False,Men,Shoes,False,False,False,True,3,White,Varsity Crimson,Midnight Navy,NaN,210,True
+Air Jordan 1 SE,False,Men,Shoes,False,True,False,True,3,Lava Glow,White,Barely Volt,NaN,120,False
+Pegasus 40 (Inter Milan),True,Men,Road Running Shoes,False,False,False,True,3,Black,Lyon Blue,White,NaN,140,True
+Zion 1,False,Basketball Shoes,Basketball Shoes,False,False,False,False,4,White,Laser Orange,Dynamic Turquoise,Black,120,False
+Air Max 90 By You,False,Custom Men,Custom  Shoes,False,True,False,True,4,Multi-Color,Multi-Color,Multi-Color,Multi-Color,150,True
+SB BLZR Court,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Lucky Green,Lucky Green,White,White,70,False
+Air Zoom Infinity Tour NXT% NRG,True,Men,Golf Shoes,False,False,False,True,4,White,Clear Jade,Jade Ice,Black,180,True
+Tiempo Legend 9 Academy TF,True,Turf Soccer Shoe,Turf Soccer Shoe,False,False,False,True,3,White,Volt,Blackened Blue,NaN,75,False
+Tiempo Legend 9 Academy TF,False,Turf Soccer Shoe,Turf Soccer Shoe,False,False,False,True,4,Black,Summit White,Light Photo Blue,Dark Smoke Grey,75,False
+Air Force 1 '07 LV8,False,Men,Shoes,False,False,False,True,4,Rattan,Rattan,Alpha Orange,Sail,130,True
+Air Force 1 '07 LV8,False,Men,Shoes,False,False,False,True,4,Sail,Photon Dust,Alpha Orange,Light Smoke Grey,130,True
+Air Force 1 '07 LV8,False,Men,Shoes,False,False,False,True,4,Enamel Green,Enamel Green,Alpha Orange,Sail,130,True
+Dunk Low Retro SE 2,False,Men,Shoes,False,False,False,True,4,Sequoia,Safety Orange,Desert Berry,Alabaster,110,False
+Air Max 90 SE,False,Men,Shoes,False,False,False,True,4,Sail,Ashen Slate,Hemp,White,140,True
+Air Zoom Maxfly More Uptempo,False,Track & Field Sprinting Spikes,Track & Field Sprinting Spikes,False,False,False,True,3,Black,Black,White,NaN,180,True
+Offcourt (MLB New York Yankees),False,Slide,Slide,False,False,False,True,3,Black,College Navy,White,NaN,40,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Baroque Brown,Baroque Brown,White,Adobe,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Summit White,Summit White,White,Laser Orange,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Oxen Brown,Oxen Brown,Gum Dark Brown,Black,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Midnight Navy,Midnight Navy,Black,Noise Aqua,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,Black,Sail,White,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Black,White,White,White,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Safety Orange,Safety Orange,White,White,90,False
+Offcourt (NFL Tennessee Titans),False,Slide,Slide,False,False,False,True,3,Anthracite,College Navy,Valor Blue,NaN,40,False
+Air Force 1 '07,False,Men,Shoes,False,False,False,True,3,White,Deep Royal,University Red,NaN,110,False
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Indigo Haze,Blue Tint,Baltic Blue,Space Purple,130,True
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,White,Black,Stadium Green,Oxygen Purple,130,True
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Ironstone,Cobblestone,Sail,Orange Trance,130,True
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,3,Pale Vanilla,Coral Chalk,Blue Lightning,NaN,130,True
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,White,Black,Barely Volt,White,130,True
+Freak 4,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,Light Smoke Grey,University Blue,White,130,True
+Offline 3.0,False,Mules,Mules,False,False,False,True,4,Dark Teal Green,Black,Burgundy Crush,Bicoastal,105,False
+Offline 3.0,False,Mules,Mules,False,False,False,True,4,Black,Light Orewood Brown,Ghost Green,Anthracite,105,False
+Jordan Delta 2,False,Men,Shoes,False,False,False,False,4,Grey Fog,Sail,College Grey,Black,130,True
+Vapor Edge 360 VC,True,Men,Football Cleats,False,False,False,True,3,White,Wolf Grey,Metallic Silver,NaN,150,True
+Mercurial Superfly 9 Club,False,Indoor/Court Soccer Shoes,Indoor/Court Soccer Shoes,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,70,False
+Waffle One SE,True,Men,Shoes,False,True,False,True,4,Light Silver,Light Silver,Coconut Milk,Light Photo Blue,110,False
+Waffle One SE,True,Men,Shoes,False,True,False,True,4,White,Light Silver,Coconut Milk,Black,110,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Wolf Grey,Wolf Grey,Gum Light Brown,White,90,False
+Offcourt (NFL Jacksonville Jaguars),False,Slide,Slide,False,False,False,True,3,Anthracite,Blustery,Ochre,NaN,40,False
+Zoom Vomero 5 Premium,False,Men,Shoes,True,False,False,True,4,Yellow Strike,Citron Tint,Yellow Ochre,Metallic Silver,160,True
+Pegasus 38 (NFL Las Vegas Raiders),False,Men,Running Shoes,False,False,False,True,3,Field Silver,Black,White,NaN,130,True
+Clark Atlanta,False,Nike College Offcourt Slides,College Offcourt Slides,False,False,False,True,3,Black,Light Smoke Grey,Atom Red,NaN,40,False
+Vapor Edge Pro 360 2 TB,False,Football Cleats,Football Cleats,False,False,False,True,3,White,Pure Platinum,New Orchid,NaN,125,True
+Vapor Edge Pro 360 2 TB,False,Football Cleats,Football Cleats,False,False,False,True,3,White,Pure Platinum,College Navy,NaN,125,True
+Vapor Edge Pro 360 2 TB,False,Football Cleats,Football Cleats,False,False,False,True,3,White,Pure Platinum,Team Crimson,NaN,125,True
+Vapor Edge Pro 360 2 TB,False,Football Cleats,Football Cleats,False,False,False,True,3,White,Pure Platinum,Brilliant Orange,NaN,125,True
+Vapor Edge Pro 360 2 TB,False,Football Cleats,Football Cleats,False,False,False,True,3,White,Pure Platinum,Fir,NaN,125,True
+Alpha Menace Varsity 3,False,Men,Football Cleats,False,False,False,True,4,Game Royal,University Blue,Summit White,White,75,False
+Alpha Menace Varsity 3,False,Men,Football Cleats,False,False,False,True,3,Black,Iron Grey,White,NaN,75,False
+Alpha Menace Varsity 3,False,Men,Football Cleats,False,False,False,True,4,University Red,Bright Crimson,Summit White,White,75,False
+Alpha Menace Varsity 3,False,Men,Football Cleats,False,False,False,True,3,White,Pure Platinum,Black,NaN,75,False
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,3,Black,Photo Blue,White,NaN,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,4,Summit White,Noise Aqua,Citron Tint,White,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,4,Photon Dust,Volt,Emerald Rise,Black,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,4,Phantom,White,Bright Crimson,Obsidian,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,4,Wolf Grey,Cool Grey,Pink Spell,Black,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,3,White,Photo Blue,Black,NaN,160,True
+Air Zoom Infinity Tour NEXT%,False,Men,Golf Shoes,False,False,False,True,4,White,Grey Fog,Dynamic Turquoise,Black,160,True
+Jordan Post,False,Men,Slides,False,False,False,True,2,White,White,NaN,NaN,30,False
+Jordan Post,False,Men,Slides,False,False,False,True,2,University Red,University Red,NaN,NaN,30,False
+Jordan Post,False,Men,Slides,False,False,False,True,2,Black,Black,NaN,NaN,30,False
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,4,Space Purple,Off Noir,Pink Blast,White,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,3,Barely Green,Total Orange,Blackened Blue,NaN,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,4,Football Grey,Light Marine,Rush Orange,Blackened Blue,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,4,Black,Anthracite,Metallic Gold,Metallic Dark Grey,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,4,White,Baltic Blue,Pink Blast,Black,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,4,Black,Summit White,Light Photo Blue,Dark Smoke Grey,230,True
+Tiempo Legend 9 Elite FG,False,Firm-Ground Soccer Cleats,Firm-Ground Soccer Cleats,False,False,False,True,3,Guava Ice,Sunset Glow,Yellow Strike,NaN,230,True
+Jordan Access,False,Men,Shoe,False,False,False,True,3,Black,White,Gym Red,NaN,110,False
+Air Force 1 '07,False,Men,Shoes,False,False,False,True,3,Black,Gum Light Brown,Black,NaN,110,False
+Air Zoom Diamond Elite Turf,True,Men,Baseball Shoes,False,False,False,True,4,White,Light Bone,Pure Platinum,Clear Jade,110,False
+Air Zoom Diamond Elite Turf,False,Men,Baseball Shoes,False,False,False,True,4,Black,Wolf Grey,Cool Grey,White,110,False
+Victori One,False,Men,Slides,False,False,False,True,3,Team Red,Team Red,White,NaN,35,False
+Victori One,False,Men,Slides,False,False,False,True,3,Black,Black,White,NaN,35,False
+Air Flight Lite Mid,False,Men,Shoe,False,False,False,True,2,White,Black,NaN,NaN,140,True
+Air Flight Lite Mid,False,Men,Shoe,False,False,False,True,4,White,Lemon,Black,White,140,True
+Quest 4,False,Men,Road Running Shoes,False,False,False,True,4,Thunder Blue,Black,Grey Fog,Light Photo Blue,75,False
+Jordan Delta 2 SE,False,Shoes,Shoes,False,False,False,True,4,Light Pumice,Racer Blue,Chile Red,Pure Platinum,140,True
+Offcourt (NFL Tampa Bay Buccaneers),False,Slide,Slide,False,False,False,True,3,Anthracite,Black,Gym Red,NaN,40,False
+Fly.By Mid 3,False,Basketball Shoes,Basketball Shoes,False,False,False,True,2,White,Wolf Grey,NaN,NaN,65,False
+Converse Chuck Taylor All Star High Top,False,Unisex Shoe,Unisex Shoe,False,False,False,True,1,['Navy'],NaN,NaN,NaN,65,False
+Air Jordan XXXVII Low GC,False,Men,Basketball Shoes,False,False,False,True,4,Black,Lilac Ice,Hydrogen Blue,Orange Chalk,195,True
+Alpha Huarache Elite 4 Low,True,Men,Baseball Cleats,False,False,False,True,4,White,Blue Tint,Pure Platinum,Black,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,White,Phantom,Laser Orange,Light Crimson,100,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,Black,Dark Smoke Grey,Light Smoke Grey,White,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,University Red,Team Red,Habanero Red,White,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,Black,Blue Tint,Anthracite,White,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,Hyper Royal,Deep Royal Blue,University Blue,White,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,White,Wolf Grey,Pure Platinum,Black,90,False
+Alpha Huarache Elite 4 Low,False,Men,Baseball Cleats,False,False,False,True,4,Wolf Grey,Cool Grey,Pure Platinum,White,90,False
+Offline 3.0 Premium,False,Men,Mule,False,False,False,True,4,Light Smoke Grey,Comet Blue,Summit White,Anthracite,115,False
+Air Griffey Max 1,False,Men,Shoes,False,False,False,True,3,Pure Platinum,White,University Red,NaN,170,True
+Air Griffey Max 1,False,Men,Shoes,False,False,False,True,4,Black,Concord,Yellow Strike,Concord,180,True
+Air Max 1 Premium,False,Men,Shoes,False,False,False,True,4,Summit White,Sail,Coconut Milk,White,160,True
+Offcourt (Florida),False,Slide,Slide,False,False,False,True,3,Black,Game Royal,University Orange,NaN,40,False
+Air Max 90 LTR,False,Men,Shoes,False,False,False,True,3,White,White,White,NaN,140,True
+Offcourt (NFL New England Patriots),False,Slide,Slide,False,False,False,True,3,Anthracite,College Navy,Medium Silver,NaN,40,False
+Tuskegee,False,Nike College Offcourt Slides,College Offcourt Slides,False,False,False,True,3,Black,White,Yellow Ochre,NaN,40,False
+Air Force 1 Mid '07 QS,False,Men,Shoes,False,False,False,True,2,Venice,Summit White,NaN,NaN,150,True
+Offcourt (MLB Baltimore Orioles),False,Slide,Slide,False,False,False,True,3,Black,University Orange,White,NaN,40,False
+Air Jordan 6 Retro Low,False,Men,Shoes,False,False,False,True,3,Spruce Aura,Spruce Aura,Metallic Gold,NaN,200,True
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,University Red,University Red,White,White,90,False
+SB Zoom Blazer Mid,False,Skate Shoes,Skate Shoes,False,False,False,True,4,Cerulean,Cerulean,White,White,90,False
+Air Humara,True,Men,Shoes,False,False,False,True,4,Black,Metallic Silver,Black,Metallic Silver,160,True
+Pegasus 38 Shield,False,Men,Weatherized Road Running Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Light Smoke Grey,Platinum Tint,130,True
+Air Jordan 3 Retro,False,Men,Shoes,False,False,False,False,4,Light Orewood Brown,Light British Tan,Palomino,Metallic Gold,200,True
+Jordan System.23,False,Men,Shoes,False,False,False,True,4,Team Gold,White,Wolf Grey,Coconut Milk,110,False
+Air Force 1 '07,True,Shoes,Shoes,False,False,False,True,4,Sail,University Red,Coconut Milk,Sail,130,True
+Revolution 5,False,Men,Road Running Shoes,False,False,False,True,3,Cool Grey,Dark Grey,Pure Platinum,NaN,70,False
+Revolution 5,False,Men,Road Running Shoes,False,False,False,True,3,Black,Anthracite,White,NaN,70,False
+Terminator Low,False,Men,Shoes,False,False,False,True,3,University Gold,White,Navy,NaN,120,False
+Air Jordan 1 Mid SE Craft,False,Men,Shoes,False,False,False,True,4,White,Tech Grey,Sail,Light Orewood Brown,135,True
+LeBron Witness 6 (Team),False,Basketball Shoes,Basketball Shoes,False,False,False,False,3,White,White,Black,NaN,105,False
+Offcourt (Clemson),False,Slide,Slide,False,False,False,True,3,Black,New Orchid,University Orange,NaN,40,False
+LeBron Witness 5,False,Basketball Shoes,Basketball Shoes,False,False,False,True,4,Black,University Red,White,Bright Crimson,100,False
+Phantom GX Academy,True,Multi-Ground Soccer Cleats,Multi-Ground Soccer Cleats,False,False,False,True,2,Guava Ice,Black,NaN,NaN,90,False
+Jordan Jumpman Team II ,False,Men,Shoe,False,False,False,True,3,White,Cool Grey,Black,NaN,150,True
+Phantom GX Club,False,Turf Soccer Shoes,Turf Soccer Shoes,False,False,False,True,4,Black,Dark Smoke Grey,Total Orange,Summit White,70,False
+Offcourt (MLB Houston Astros),False,Slide,Slide,False,False,False,True,3,Black,College Navy,University Orange,NaN,40,False
+Air Jordan 1 Low OG,False,Shoes,Shoes,True,False,False,True,4,Black,Tech Grey,White,Muslin,140,True
+Blazer Mid '77,False,Men,Shoes,False,False,False,True,4,White,Black,White,Smoke Grey,110,False
+Tiempo Legend 10 Academy,False,Indoor/Court Soccer Shoes,Indoor/Court Soccer Shoes,False,False,False,True,3,Black,Hyper Royal,Chrome,NaN,80,False
+Air Max 90 SE,False,Men,Shoes,False,False,False,True,4,Summit White,Sesame,Lemon Wash,Safety Orange,140,True
+FAMU,False,Nike College Offcourt Slides,College Offcourt Slides,False,False,False,True,3,Black,Fortress Green,Orange Horizon,NaN,40,False
+Vapor Edge Pro 360,False,Men,Football Cleats,False,False,False,True,4,White,Metallic Silver,Wolf Grey,Black,120,False
+Dunk Low Retro Premium,False,Men,Shoes,False,False,False,False,4,Black,Summit White,Red Orbit,Black,110,False
+Offcourt (MLB Seattle Mariners),False,Slide,Slide,False,False,False,True,3,Black,Mardi Gras,Wolf Grey,NaN,40,False
+Air Max 1 Premium,False,Shoes,Shoes,True,False,False,True,2,White,University Red,NaN,NaN,160,True
+Air Pegasus '89 Premium,False,Shoes,Shoes,False,True,False,True,4,Light Iron Ore,Photon Dust,Flat Pewter,Metallic Silver,110,False
+On Deck,False,Men,Slides,False,False,False,True,3,Black,Black,White,NaN,25,False
+Jordan 6 Rings,False,Men,Shoes,False,False,False,True,4,Light Smoke Grey,Black,Sail,White,170,True
+React Infinity 3 By You,False,Custom Men,Custom  Road Running Shoes,False,True,False,True,4,White,Black,White,Multi-Color,190,True
+Offcourt (NFL Denver Broncos),False,Slide,Slide,False,False,False,True,3,Anthracite,College Navy,Brilliant Orange,NaN,40,False
+Offcourt (Michigan),False,Slide,Slide,False,False,False,True,3,Black,College Navy,Amarillo,NaN,40,False
+Blazer Mid '77 EMB,False,Men,Shoes,False,False,False,True,4,Black,Iron Grey,White,Action Grape,115,False
+Offcourt (MLB Cleveland),False,Slide,Slide,False,False,False,True,3,Black,College Navy,Sport Red,NaN,40,False
+Duke,False,Nike College Offcourt Slides,College Offcourt Slides,False,False,False,True,3,Black,Game Royal,White,NaN,40,False
+Dunk High 85,False,Men,Shoes,False,False,False,True,4,Summit White,University Red,Coconut Milk,Barely Rose,140,True
+Offcourt (Oklahoma),False,Slide,Slide,False,False,False,True,3,Black,Team Crimson,White,NaN,40,False
