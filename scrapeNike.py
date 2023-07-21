@@ -37,22 +37,17 @@ def gatherRowData(jsonData):
 
             visitedShoes.append(pid)
 
-            numColors = len(colors.get("colorDescription").split("/"))
-            color1 = "NaN"
-            color2 = "NaN"
-            color3 = "NaN"
-            color4 = "NaN"
+            colorDescription = colors.get("colorDescription")
+            color_list = colorDescription.split("/")
+            numColors = len(color_list)
 
-            if numColors == 1:
-                color1 = colors.get("colorDescription").split("/")
-            if numColors == 2:
-                color1, color2 = colors.get("colorDescription").split("/")
-            if numColors == 3:
-                color1, color2, color3 = colors.get(
-                    "colorDescription").split("/")
-            if numColors == 4:
-                color1, color2, color3, color4 = colors.get(
-                    "colorDescription").split("/")
+
+            numColors = len(color_list)
+
+            # Ensure at least 4 elements in the list (fill with "NaN" if necessary)
+            color_list.extend(["NaN"] * (4 - len(color_list)))
+
+            color1, color2, color3, color4 = color_list[:4]
 
             price = colors.get("price").get("fullPrice")
 
@@ -97,4 +92,4 @@ with open('shoes.csv', 'w', newline='') as csvfile:
     shoeWriter.writerow(fieldNames)
     shoeWriter.writerows(csvRows)
 
-# print(visitedShoes)
+print(len(csvRows))
