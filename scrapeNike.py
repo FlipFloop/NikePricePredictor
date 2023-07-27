@@ -1,5 +1,4 @@
 import requests
-
 import csv
 
 
@@ -29,10 +28,10 @@ def gatherRowData(jsonData):
 
         for colors in each.get("colorways"):
 
-            pid = colors.get("pid")
-            # print(pid)
+            pid = int(colors.get("pid"))
 
             if pid in visitedShoes:
+                print(f"Seen {pid}")
                 break
 
             visitedShoes.append(pid)
@@ -49,7 +48,7 @@ def gatherRowData(jsonData):
 
             color1, color2, color3, color4 = color_list[:4]
 
-            price = colors.get("price").get("fullPrice")
+            price = int(colors.get("price").get("fullPrice"))
 
             expensive = False
 
@@ -62,7 +61,7 @@ def gatherRowData(jsonData):
             inStock = colors.get("inStock")
             isSustainable = colors.get("isSustainable") or False
 
-            csvRows.append([shoeName, isNew, gender, category, isBestSeller, isMemberExclusive, isSustainable, inStock, numColors,
+            csvRows.append([pid, shoeName, isNew, gender, category, isBestSeller, isMemberExclusive, isSustainable, inStock, numColors,
                             color1, color2, color3, color4, price, expensive])
 
 
@@ -82,14 +81,29 @@ def collectData(url):
         data = req.json().get("data").get("products").get("products")
 
 
+firstRow = ""
+
+with open('shoes.csv', 'r', newline="") as csvfile:
+    prevShoes = csv.reader(csvfile, delimiter=',')
+
+    firstRow = next(prevShoes)[0]
+
+    for row in prevShoes:
+        visitedShoes.append(int(row[0]))
+    print(visitedShoes)
+
+
+
 collectData(womenURL)
 collectData(menURL)
 
-with open('shoes.csv', 'w', newline='') as csvfile:
-    fieldNames = ["Shoe name", "isNew", "Gender", "category",  "isBestSeller", "isMemberExclusive", "isSustainable", "inStock", "numColors",
-                  "Color 1", "Color 2", "Color 3", "Color 4", "Price", "Expensive"]
+with open("shoes.csv", "a", newline="") as csvfile:
     shoeWriter = csv.writer(csvfile)
-    shoeWriter.writerow(fieldNames)
+    if firstRow != "Pid":
+        fieldNames = ["Pid", "Shoe name", "isNew", "Gender", "category",  "isBestSeller", "isMemberExclusive", "isSustainable", "inStock", "numColors",
+                    "Color 1", "Color 2", "Color 3", "Color 4", "Price", "Expensive"]
+        shoeWriter.writerow(fieldNames)
     shoeWriter.writerows(csvRows)
 
 print(len(csvRows))
+
